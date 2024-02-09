@@ -1,86 +1,77 @@
 
 {
-  "stages": [
-    {
-      "id": "1",
-      "name": "Kongens Nytorv",
-      "priority": 1
-  
-    }
-  ],
- 
   "artists": [
-    {
-      "id": "1",
-      "name": "101 Copenhagen",
-      "priority": 1,
-      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/6384cacc3e85dc1ea20b2381_636a54d9106e10046b422455_1Hallway-ARCBENCH-DUSKWALLLAMP-DROPBULPWALLLAMP%2520Large-p-500.jpeg",
-      "website": "https://www.3daysofdesign.dk/",
-      "facebook": "https://www.facebook.com/3daysofdesign.dk",
-      "instagram": "https://www.instagram.com/3daysofdesign"
-    },
-    {
-      "id": "2",
-      "name": "NORR11",
-      "priority": 2,
-      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/6479d5198fd0634a1165f4bc_NORR11-Outdoor-Collection-Preview3%20(1)%20(1)-p-500.jpg",
-      "website": "https://www.3daysofdesign.dk/",
-      "facebook": "https://www.facebook.com/3daysofdesign.dk",
-      "instagram": "https://www.instagram.com/3daysofdesign"
-    },
-    {
-      "id": "3",
-      "name": "Carpe Diem Beds",
-      "priority": 3,
-      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/643d2fa851bb159f19322f73_Vindo_NewYork_Penthouse_Small_Angle1(1)-p-500.jpg",
-      "website": "https://www.3daysofdesign.dk/",
-      "facebook": "https://www.facebook.com/3daysofdesign.dk",
-      "instagram": "https://www.instagram.com/3daysofdesign"
-    },
-    {
-      "id": "4",
-      "name": "Molteni&C",
-      "priority": 4,
-      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/6409904506499f7784379cf6_H22_012-Cleo-Yoell-Aura_WEB-p-500.jpeg",
-      "website": "https://www.3daysofdesign.dk/",
-      "facebook": "https://www.facebook.com/3daysofdesign.dk",
-      "instagram": "https://www.instagram.com/3daysofdesign"
-    },
-    {
-      "id": "5",
-      "name": "Fritz Hansen",
-      "priority": 5,
-      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/642adc191be0ac052ac02477_FH_images_PK4_3days_20232%20Large-p-500.jpeg",
-      "website": "https://www.3daysofdesign.dk/",
-      "facebook": "https://www.facebook.com/3daysofdesign.dk",
-      "instagram": "https://www.instagram.com/3daysofdesign"
-    },
-    {
-      "id": "6",
-      "name": "UMAGE",
-      "priority": 6,
-      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/6405cf79c87eea04f52e7cc2_63ea0403976a0cd994e9fa84_UMAGE_lifestyle_A_Conversation_Piece_oak_sterling_3.jpeg",
-      "website": "https://www.3daysofdesign.dk/",
-      "facebook": "https://www.facebook.com/3daysofdesign.dk",
-      "instagram": "https://www.instagram.com/3daysofdesign"
-    },
-    {
-      "id": "7",
-      "name": "Møbel Copenhagen",
-      "priority": 7,
-      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/6409985f8ab72ef7f68162bf_M%C3%B8bel%20Copenhagen%20Showroom_Shot%20by%20V%C3%A6rnis%20Studio_August%202021-LR-009-p-500.jpeg",
-      "website": "https://www.3daysofdesign.dk/",
-      "facebook": "https://www.facebook.com/3daysofdesign.dk",
-      "instagram": "https://www.instagram.com/3daysofdesign"
-    },
-    {
-      "id": "8",
-      "name": "ESSE7",
-      "priority": 8,
-      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/642bd2db9b679f0393b49210_marrow_6_III%20Large-p-500.jpeg",
-      "website": "https://www.3daysofdesign.dk/",
-      "facebook": "https://www.facebook.com/3daysofdesign.dk",
-      "instagram": "https://www.instagram.com/3daysofdesign"
-    }
-  ]
+      {
+        "id": "1",
+        "name": "101 Copenhagen",
+        "priority": 1,
+        "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/6384cacc3e85dc1ea20b2381_636a54d9106e10046b422455_1Hallway-ARCBENCH-DUSKWALLLAMP-DROPBULPWALLLAMP%2520Large-p-500.jpeg",
+        "website": "https://www.3daysofdesign.dk/",
+        "facebook": "https://www.facebook.com/3daysofdesign.dk",
+        "instagram": "https://www.instagram.com/3daysofdesign"
+      },
+      {
+        "id": "2",
+        "name": "NORR11",
+        "priority": 2,
+        "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/6479d5198fd0634a1165f4bc_NORR11-Outdoor-Collection-Preview3%20(1)%20(1)-p-500.jpg",
+        "website": "https://www.3daysofdesign.dk/",
+        "facebook": "https://www.facebook.com/3daysofdesign.dk",
+        "instagram": "https://www.instagram.com/3daysofdesign"
+      },
+      {
+        "id": "3",
+        "name": "Carpe Diem Beds",
+        "priority": 3,
+        "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/643d2fa851bb159f19322f73_Vindo_NewYork_Penthouse_Small_Angle1(1)-p-500.jpg",
+        "website": "https://www.3daysofdesign.dk/",
+        "facebook": "https://www.facebook.com/3daysofdesign.dk",
+        "instagram": "https://www.instagram.com/3daysofdesign"
+      },
+      {
+        "id": "4",
+        "name": "Molteni&C",
+        "priority": 4,
+        "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/6409904506499f7784379cf6_H22_012-Cleo-Yoell-Aura_WEB-p-500.jpeg",
+        "website": "https://www.3daysofdesign.dk/",
+        "facebook": "https://www.facebook.com/3daysofdesign.dk",
+        "instagram": "https://www.instagram.com/3daysofdesign"
+      },
+      {
+        "id": "5",
+        "name": "Fritz Hansen",
+        "priority": 5,
+        "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/642adc191be0ac052ac02477_FH_images_PK4_3days_20232%20Large-p-500.jpeg",
+        "website": "https://www.3daysofdesign.dk/",
+        "facebook": "https://www.facebook.com/3daysofdesign.dk",
+        "instagram": "https://www.instagram.com/3daysofdesign"
+      },
+      {
+        "id": "6",
+        "name": "UMAGE",
+        "priority": 6,
+        "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/6405cf79c87eea04f52e7cc2_63ea0403976a0cd994e9fa84_UMAGE_lifestyle_A_Conversation_Piece_oak_sterling_3.jpeg",
+        "website": "https://www.3daysofdesign.dk/",
+        "facebook": "https://www.facebook.com/3daysofdesign.dk",
+        "instagram": "https://www.instagram.com/3daysofdesign"
+      },
+      {
+        "id": "7",
+        "name": "Møbel Copenhagen",
+        "priority": 7,
+        "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/6409985f8ab72ef7f68162bf_M%C3%B8bel%20Copenhagen%20Showroom_Shot%20by%20V%C3%A6rnis%20Studio_August%202021-LR-009-p-500.jpeg",
+        "website": "https://www.3daysofdesign.dk/",
+        "facebook": "https://www.facebook.com/3daysofdesign.dk",
+        "instagram": "https://www.instagram.com/3daysofdesign"
+      },
+      {
+        "id": "8",
+        "name": "ESSE7",
+        "priority": 8,
+        "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/642bd2db9b679f0393b49210_marrow_6_III%20Large-p-500.jpeg",
+        "website": "https://www.3daysofdesign.dk/",
+        "facebook": "https://www.facebook.com/3daysofdesign.dk",
+        "instagram": "https://www.instagram.com/3daysofdesign"
+      }
+    ]
 }
