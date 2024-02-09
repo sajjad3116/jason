@@ -1,5 +1,14 @@
 
 {
+  "stages": [
+    {
+      "id": "1",
+      "name": "Kongens Nytorv",
+      "priority": 1
+  
+    }
+  ],
+ 
   "artists": [
     {
       "id": "1",
