@@ -1,0 +1,399 @@
+
+{
+    "artists": [
+        {
+          "id": "1",
+          "name": "Atelier Luxus",
+          "priority": 1,
+          "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65d336a96a95e34c252226b1_hero-p-1600.jpeg",
+          "website": "https://www.legio.dk/atelierluxus",
+          "instagram": "https://www.instagram.com/legio.dk/",
+          "Pinterest": "https://www.pinterest.dk/legiodk/",
+          "description": "Atelier Luxus is leading in the realm of luxury switches, crafting exquisite, hand-finished products that seamlessly integrate the latest technological advancements. Infused with unique details, solid precious metals, and unparalleled craftsmanship, Atelier Luxus’ products redefine quality both aesthetically and materially. These exceptional pieces boast finishings of unparalleled finesse and a richness of tones. Each piece is meticulously crafted from a single sheet of thick, pure brass, providing almost limitless possibilities for various patinas. Atelier Luxus is represented by Legio Architechtural Solutions, a Copenhagen based architectural firm specialised in lighting, light planning and bespoke interior.          "
+        },
+        {
+          "id": "2",
+          "name": "Örsjö Belysning ",
+          "priority": 2,
+          "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65d60722c980b6098fcb14e1_hero-p-1600.jpeg",
+          "website": "https://www.orsjo.com/",
+          "facebook": "https://www.facebook.com/orsjobelysning",
+          "instagram": "https://www.instagram.com/orsjo_belysning/",
+          "Pinterest": "https://www.pinterest.se/orsjoab/"
+          },
+          {
+          "id": "3",
+          "name": "ÁBBATTE",
+          "priority": 3,
+          "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65e20a4f65d88e804e3ea7b8_hero-p-1600.jpg",
+          "website": "https://www.abbatte.com/",
+          "facebook": "https://www.facebook.com/people/%C3%81BBATTE/100068425426409/",
+          "instagram": "https://www.instagram.com/abbatte_/",
+          "Pinterest": "https://www.pinterest.es/abbattee/",
+          "description": "The mission and calling of Ábbatte is to use manual looms to create lovely textile objects that become part of our lives, transform usefulness into beauty, and leave their mark on our souls—fabrics that closely intertwine an aesthetic perception and a philosophy of life. These exquisitely refined fabrics are pure and genuine beauty, eschewing all ornamentation. They are warm, sophisticated, and restrained. Ábbatte creates these fabrics to be pleasant to the sight as well as to the touch. They envelop us and become our second skin by developing our sense of touch—the most atavistic of the senses—which has an enormous impact on our sensitivity."
+        
+          },
+        {
+          "id": "4",
+          "name": "Form & Refine",
+          "priority": 4,
+          "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65ccd5e160cfe1ea121a3861_FormandRefine_Dining_Blueprint-hallingdal_1920x10280%201%20Large.jpeg",
+          "website": "https://www.formandrefine.com/",
+          "facebook": "https://www.facebook.com/formandrefine",
+          "instagram": "https://www.instagram.com/formandrefine/",
+          "Pinterest": "https://www.pinterest.dk/formandrefine_official/",
+          "description": "Form & Refine is a Danish design brand that celebrates materials, form and sustainability equally. The pure materials are carefully selected from around the world and skilfully crafted locally using time-honored traditions. They see design as an artistic expression but equally as a functional object that never compromises on quality."
+        
+          },
+        {
+          "id": "5",
+          "name": "MatzForm Scandinavia",
+          "priority": 5,
+          "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65d34640d792c85d4fdd0cfd_BodegaCounter_SudioMatz%20Large.jpeg",
+          "website": "https://www.matzformscandinavia.com/",
+          "instagram": "https://www.instagram.com/matzform/",
+          "description": "MatzForm is simplicity and quality. It is the embodiment of furniture that you will always treasure, and always use. MatzForm does not make intellectually interesting design conceits only built to impress for one show, or one season. MatzForm furniture is timeless, durable, and eminently functional. There are no fashionable pieces in the MatzForm catalogue, because fashion changes every year. Each item manufactured by MatzForm is a licensed design chosen because it transcends fashion with the timelessly elegant confluence of form and function. Classic Scandinavian design under license from designers such as: Verner Panton, Ib Kofod-Larsen, Erling Torvits, Ejvind Johansson, H. W. Klein, Arne Hovmand-Olsen and Thomas E. Alken."
+        
+          },
+        {
+          "id": "6",
+          "name": "Karup Design",
+          "priority": 6,
+          "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65d33beee46f5f97e9ef8e34_hero-p-1600.jpeg",
+          "website": "https://www.karupdesign.com/",
+          "facebook": "https://www.facebook.com/karupdesignoriginal",
+          "instagram": "https://www.instagram.com/karup_design/",
+          "Pinterest": "https://www.pinterest.dk/karupdesignofficial/",
+          "description": "Karup Design stands out in the furniture industry for its multifunctional and stylish furniture. Emphasizing the philosophy 'Make room for more. In less space,' Karup Design's focus has always been on functional yet aesthetically pleasing furniture solutions. This focus on multifunctionality is not merely about utility but also a commitment to decluttering and simplifying living areas. Aesthetically, Karup Design’s creations embrace a minimalist ethos, characterized by clean lines, simplicity, and a natural color scheme, primarily using pine wood and complimentary color tones. This design approach extends beyond visual appeal, fostering a sense of openness and more space, especially in small living spaces."
+        
+          },
+        {
+          "id": "7",
+          "name": "RÄKKI RUGS",
+          "priority": 7,
+          "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65d5d00b4dfe8a88debbc2df_hero-p-1600.jpeg",
+          "website": "https://raekki-rugs.com/",
+          "instagram": "https://www.instagram.com/raekki_rugs/",
+          "description": "Established in Berlin in 2022, RÄKKI RUGS creates a distinctive range of high-quality, hand-knotted rugs from Nepal that centre timeless design, traditional handicraft with the inspiration of contemporary art and culture. Characterized by subtle and lively polychromy, unique design and great love for detail. RÄKKI RUGS is woven exclusively from natural fibers and is committed to creating rugs that last and grow in beauty over time. Rebekka Stange is the founder and designer of RÄKKI RUGS. In the design process, her creative search repeatedly encounters the fascination of the unfinished, the provisional and the possible. RÄKKI RUGS is available globally online and through a handful of carefully selected retail partners in Germany."
+        
+          },
+        {
+          "id": "8",
+          "name": "Daydreaming objects",
+          "priority": 8,
+          "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65d33beee46f5f97e9ef8e34_hero-p-1600.jpeg",
+          "website": "https://www.daydreamingobjects.com/",
+          "facebook": "https://www.facebook.com/profile.php?id=100082582647520",
+          "instagram": "https://www.instagram.com/daydreaming_objects/",
+          "description": "Daydreaming Objects is represented by a Copenhagen-based creative duo: lighting designer Ruta Palionyte and architect Leva Baranauskaite. Combining diverse skills, the duo creates lighting design objects that go beyond mere function, telling stories and infusing everyday spaces with dreaminess. They approach a blend of unexpected materials, curiosity-driven research, and bold experimentation, pushing the boundaries of creativity in lighting design. In 2024, the creative studio Daydreaming Objects is launching their new lighting series, Soft Solids. The Soft Solids explore the intentional use and repurposing of natural material—wax, reflecting on its potential for regeneration within design practice."
+        
+          },
+          {
+            "id": "9",
+            "name": "Serax",
+            "priority": 9,
+            "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65e1fcc14ef01b73e56b456c_01%20Head%20Image-p-1600.jpeg",
+            "website": "https://serax.com/",
+            "facebook": "https://www.facebook.com/seraxofficial",
+            "instagram": "https://www.instagram.com/serax_official/",
+            "Pinterest": "https://nl.pinterest.com/serax/",
+            "description": "Serax is more than a brand. Based in Belgium but with a global reach and outlook, Serax creates contemporary homeware in collaboration with leading international designers and makers, bound together by a shared vision of elevating everyday spaces elevating spaces. Every Serax object is a balance of aesthetics and function. From the smallest to the largest, each one becomes a treasured object that can last for generations: a work of art in its own right. Designed in Europe – manufactured all over the world."
+          
+            },
+            {
+              "id": "10",
+              "name": "V-ZUG",
+              "priority": 10,
+              "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/6409bd86fdaf5eb94d6e8e0f_Excellence%20Line_Oven_CoffeeCenter_CombiStemaer_Platinum-p-1600.jpeg",
+              "website": "https://www.vzug.com/ch/en/",
+              "facebook": "https://www.facebook.com/vzug",
+              "instagram": "https://www.instagram.com/vzug/",
+              "Pinterest": "https://www.pinterest.ch/vzug/",
+              "description": "V-ZUG , Switzerland’s leading brand for household appliances, has been developing and producing kitchen and laundry appliances in Switzerland for 111 years and providing comprehensive service in all its markets. At V Z UG, we believe that time is of essence. And each one of us should focus on what matters: sharing, hosting, living. A company rooted in Switzerland since 1913, we are committed to building a sustainable future through the manufacturing of long lasting appliances and responsible, carbon neutral production. We work hard every day to bring simplicity to your home and creativity to your kitchen."
+              },
+              {
+                "id": "11",
+                "name": "Cph Lighting",
+                "priority": 11,
+                "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65e092f69d062b7dc9fea737_hero-p-1600.jpeg",
+                "website": "https://www.cphlighting.dk/",
+                "facebook": "https://www.facebook.com/CphLighting/",
+                "instagram": "https://www.instagram.com/CphLighting/",
+                "Pinterest": "https://www.pinterest.dk/cphlighting/",
+                "description": "Timeless Design Made To Last. Cph Lighting is a Danish lighting brand under the current ownership since 2007. Their mission is to create lighting that will stay relevant and appreciated, both functionally and visually, for many years to come, and hopefully for generations. The Cph Lighting collection includes classic and contemporary lighting objects by acclaimed designers. Demanded for private and commercial interiors. Their lighting is made with focus on long-lasting quality, great functionality, the good light, and low energy consumption. All wrapped in beautiful and timeless design. The Cph Lighting collection is manufactured in Denmark with the use of proud traditional craftsmanship as well as modern production technology."
+                },
+                {
+                  "id": "12",
+                  "name": "KunstIndustrien",
+                  "priority": 12,
+                  "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65e209446709eb99556b2286_hero-p-1600.jpeg",
+                  "website": "https://www.kunstindustrien.dk/",
+                  "facebook": "https://www.facebook.com/kunstindustrien",
+                  "instagram": "https://www.instagram.com/kunstindustrien/",
+                  
+                  "description": "KunstIndustrien value supreme quality, aiming for the highest standards in everything they do. Their handcrafted wax candles combine traditional craftsmanship with modern design, and they never compromise in the choices of raw materials or suppliers. KunstIndustrien is known for their exquisite quality products and for Candles you can Trust. Their wide variety of quality candles satisfy every need for an inviting and warm atmosphere for both business and pleasure. KunstIndustriens wax candles are made with RSPO certified stearin and are EN-tested and approved for low soot behavior. Their 100% upcycled olive wax candles are made from the left over-olive pulp from olive oil production. Olive trees are resourceful thru many years."
+
+                  },
+                  {
+                    "id": "13",
+                    "name": "MARTIN KECHAYAS",
+                    "priority": 13,
+                    "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65dcced72918ba105a113848_hero-p-1600.jpeg",
+                    "website": "https://martinkechayas.com/",
+                    "facebook": "https://www.facebook.com/people/Anotherchair/100089454584764/",
+                    "instagram": "https://www.instagram.com/martinkechayas/",
+                    
+                    "description": "Designers of today shaping the furniture of tomorrow. The mission is to produce furniture for everyone designed by living designers. Martin Kechayas design sustainable furniture for the future that are inspired by the time we live in, and for people living in our time. There is a common thread through the designs of Martin Kechayas that tells a story – a story about a development process, refinement of a consistent idea; to shape functional, organic spectacle - and yet challenging forms: As a kind of zoological form - this is how I imagines the furniture. As an organism of its own characteristic nature - this is how it calls to be created and invite the user to come closer - and use!."
+                  },
+                    {
+                      "id": "14",
+                      "name": "ReCollector",
+                      "priority": 14,
+                      "image": "#",
+                      "website": "https://recollectorstore.com/",
+                      "facebook": "https://www.facebook.com/ReCollector.dk",
+                      "instagram": "https://www.instagram.com/recollector.dk/",
+                      "Pinterest": "https://www.pinterest.dk/ReCollector_dk/",
+                      "description": "ReCollector designs storage solutions for small living spaces made from recycled or certified materials. The goal is to create products that make the everyday lives of consumers easier, more convenient, and stylish. All products are developed through anthropological research to understand the preferences, needs, and everyday lives of consumers. Responsibility is ingrained in ReCollector's DNA - with regards to relations, driving business, and production where nature serves as a significant source of inspiration for ReCollector. The aim is to move away from linear thinking and instead draw inspiration from nature, where everything operates in a circular manner."
+                      },
+                      {
+                        "id": "15",
+                        "name": "Anker & Co",
+                        "priority": 15,
+                        "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65cc8c4bc6a4fa4d2397fa0f_1-Anker-Co-3dod-24-website-header-p-1600.jpeg",
+                        "website": "https://www.ankerco.com/",
+                        
+                        "instagram": "https://www.instagram.com/ankerco/",
+                       
+                        "description": "Anker & Co represents well-known international lighting brands such as Michael Anastassiades, Wästberg and XAL. They develop and implement high-quality lighting solutions for offices, shops, hotels, restaurants, public spaces, outdoor areas and private residences in close collaboration with builders, architects and lighting designers."
+                        },
+                        {
+                          "id": "16",
+                          "name": "Desalto",
+                          "priority": 16,
+                          "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65ccb4940a9960c4b0240214_hero-p-1600.jpg",
+                          
+                          "description": "For over 30 years, Desalto has nurtured a concept of aesthetically sophisticated products rooted in continuous technical and technological research aimed at enhanced functionality. With three decades of activity, Desalto stands as both a youthful and time-honoured brand—a dynamic spirit that seamlessly blends iconic seating and complements, resembling graphic forms sketched in the air, with tables as versatile as daily life itself. The narrative began in 1990 when the four Orsenigo brothers, heirs to a family metalworking business, envisioned a company more attuned to contemporary trends. They sought collaboration with designers, fostering diverse perspectives that align with the same corporate philosophy centred on fundamental values of harmony and elegance."
+                          },
+                          {
+                            "id": "17",
+                            "name": "ARNE AKSEL x e-Types",
+                            "priority": 17,
+                            "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65e209bd45e5340c68625885_hero-p-1600.jpeg",
+                            "website": "https://www.arneaksel.com/",
+                            "facebook": "https://www.facebook.com/arneaksel/",
+                            "instagram": "https://www.instagram.com/arneaksel/?hl=en",
+                            "Pinterest": "https://www.pinterest.dk/arneakselcom/",
+                            "description": "KARNE AKSEL aim to inspire through extraordinary textile experiences, and believe that the immediate materiality of fabrics is a catalyst of aesthetic emotional experiences. In 2017 ARNE AKSEL made it a mission to share these experiences with the world, and love to collaborate with designers, architects, and businesses in creating tailored solutions for their projects. This year ARNE AKSEL and e-Types, a Copenhagen based brand agency, teamed up. e-Types build successful brands based on sharp insights, award winning aesthetics and big ideas. e-Types believe the best solutions are the simplest ones, and the most desirable brands are the ones that ring true."
+                            },
+                            {
+                              "id": "18",
+                              "name": "TABLEAU",
+                              "priority": 18,
+                              "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65d617542b27d63ed5bfa3bd_TABLEAU_WALLPAPER_2021_18-p-1600.jpg",
+                              "website": "https://www.tableau-cph.com/",
+                              
+                              "instagram": "https://www.instagram.com/tableau_cph/",
+                             
+                              "description": "Tableau is a multidisciplinary creative studio and exhibition space. Founded in Copenhagen in 2018 by floral designer Julius Værnes Iversen, Tableau works to deconstruct established ideas of art and design through a collaborative approach. Alongside the exhibition space and concept store, Tableau offers floral design, object design, set design, interior design, and architectural installations. The approach is to source collaborators globally to break down barriers between art and design. Past work includes projects for Hermes, Tom Dixon, Vogue, among others."
+                              },{
+                                "id": "19",
+                                "name": "Ege Carpets",
+                                "priority": 19,
+                                "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65e1f9a67959425d9e5801cd_hero-p-1600.jpeg",
+                                "website": "https://www.egecarpets.com/",
+                                "facebook": "https://www.facebook.com/EgeCarpets",
+                                "instagram": "https://www.instagram.com/egecarpets/",
+                                "Pinterest": "https://www.pinterest.dk/egecarpets/",
+                                "description": "Weaving together timeless Danish design and sustainable ambitions, Ege Carpets craft wall-to-wall carpets, rugs, carpet tiles and planks for commercial buildings, hotels, cruise ships, art galleries, exhibitions and more. Offering an attractive selection of pick-and-produce designs as well as endless custom design opportunities, Ege Carpets are chosen by high-profile companies all over the world. Explore the new and extensive rugs concept featuring amazing collaborations with renowned designers including Tom Dixon, Monsieur Christian Lacroix, Nicolette Brunklaus, Laura Bilde and Linnea Blæhr." },
+                                {
+                                  "id": "20",
+                                  "name": "FROST Denmark",
+                                  "priority": 20,
+                                  "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65e209bd45e5340c68625885_hero-p-1600.jpeg",
+                                  "website": "https://www.frostdenmark.com/",
+                                  "facebook": "https://www.facebook.com/frostdenmark",
+                                  "instagram": "https://www.instagram.com/frostdenmark",
+                                  "Pinterest": "https://www.pinterest.dk/frostdenmark/",
+                                  "description": "FROST was founded on June 1st, 2002 by Hans Jørgen Frost. The story began with a vision of creating a new generation of interior design accessories and architectural hardware where the Danish design tradition and functionality go hand in hand. Over the past 20 years, FROST has grown into something unimagined. Proudly joining the inner circle of established design companies, FROST now dares to dream of becoming the market leader. Working tirelessly every day, consistently providing timeless designs to compliment the consumers lifestyle and enhance the feel-good factor in their life."                                  },{
+                                    
+                                    "id": "21",
+                                    "name": "Hemverk",
+                                    "priority": 21,
+                                    "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65cce0d11ad9f9e52b514817_hero-p-1600.jpg",
+                                    "website": "https://hemverk.com/",
+                                    "facebook": "https://www.facebook.com/hemverkcom",
+                                    "instagram": "https://www.instagram.com/hemverkcom",
+                                    "Pinterest": "https://www.pinterest.dk/hemverk/",
+                                    "description": "Scandinavian simplicity. Hemverk is a collection of wall clocks that unite form and function with their minimalist Scandinavian style and simplicity. The design is clean, simple and elegant, the better to highlight the most important function of the clock: to tell the time. After all, time is the most important feature. All the clocks are produced and assembled by hand in a small workshop in Denmark, with great attention to detail. Every clock is made uniquely for each order, which ensures a responsible production process and avoiding overproduction. Their minimalist design gives our clocks a distinct character and there are many options for both clock hands and clock faces, combining colours and materials based on personal preferences."                                    
+                                    },
+                                    {
+                                      "id": "22",
+                                      "name": "Wästberg",
+                                      "priority": 22,
+                                      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65e095ac28fe4f90569818ef_hero-p-1600.jpeg",
+                                      "website": "https://www.wastberg.com/en",
+                                      "facebook": "https://www.facebook.com/wastberglighting/",
+                                      "instagram": "https://www.instagram.com/wastberglighting/",
+                                      "Pinterest": "https://www.pinterest.se/wastberg2008/",
+                                      "description": "In close collaboration with leading architects and designers, Wästberg creates long-lasting, technologically driven, economically viable and environmentally conscious lighting. Lighting that answers to fundamental human needs, both physical and emotional, and adapts to these needs as they evolve and shift."
+                                    },{
+                                        "id": "23",
+                                        "name": "Fiorini Trading",
+                                        "priority": 22,
+                                        "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65cccef53efa2832b6605a94_hero-p-1600.jpeg",
+                                        "website": "https://www.fiorinitrading.dk/",
+                                      
+                                        "instagram": "https://www.instagram.com/fiorinitrading/",
+                                        
+                                        "description": "Fiorini Trading represents well-known international furniture brands such as Living Divani, Extremis, Desalto, Gebrüder Thonet Vienna, Alias, Asplund, and Ondarreta. All of Fiorini Trading’s brands are family-owned companies run through several generations with proud traditions in quality craftsmanship, own production and with collections created by world-leading designers."
+                                      },
+                                    
+                                    {
+                                      "id": "24",
+                                      "name": "Sheyn",
+                                      "priority": 24,
+                                      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65e207368fe99f30ee31b469_hero-p-1600.jpeg",
+                                      "website": "https://www.sheyn.at/",
+                                      "facebook": "https://www.facebook.com/sheyn.at/",
+                                      "instagram": "https://www.instagram.com/sheyn.at/",
+                                      
+                                      "description": "For his brand named Sheyn, Vienna-based designer Nicolas Gold has created a range of intricately patterned homeware called Tiny Architecture that is made using 3D printing techniques. Gold trained with Zaha Hadid before founding Sheyn in 2016 with partner Markus Schaffer to focus on creating what they term "Tiny Architecture" — homeware made with an architect's predilection for fussing over the tiniest details of furniture and fixtures. The collection includes vases, bowls, planters and lighting, all made from a light, sturdy, and recyclable corn-based compound. Every design is 3D printed on demand at Sheyn's studio in the heart of Vienna."                                    },
+                                    {
+                                      "id": "25",
+                                      "name": "Plastiz",
+                                      "priority": 25,
+                                      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65d61b5e284450a3e58bfd60_hero-p-1600.jpg",
+                                      "website": "https://www.plastiz.it/",
+                                      "facebook": "https://www.facebook.com/helloplastiz/",
+                                      "instagram": "https://www.instagram.com/plastiz_",
+                                      "Pinterest": "https://www.pinterest.it/Plastiz/",
+                                      "description": "Plastiz transforms plastic waste into a new surface material 100% recycled and recyclable for visionary designers and architects. Its mission is to respond to the environmental emergency caused by the invasion of plastic waste while delivering a valuable alternative to the use of virgin plastic and other non-sustainable or extractive materials in design and architectural projects. Each panel tells a story of recycling and beauty, giving a new life to soap bottles, caps, spools, coffee capsules and more, preventing this precious material from being burnt or ending up in landfills. With more than 30 textures in solid and translucent materials, Plastiz panels come in big size and various thicknesses to adapt to countless applications."                                    },
+                                    {
+                                      "id": "26",
+                                      "name": "WOUD",
+                                      "priority": 26,
+                                      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65d71c5ae03c302c9281de20_hero-p-1600.jpg",
+                                      "website": "https://wouddesign.com/",
+                                      "facebook": "https://www.facebook.com/wouddesign",
+                                      "instagram": "https://www.instagram.com/wouddesign/",
+                                      "Pinterest": "https://www.pinterest.dk/wouddesign/",
+                                      "description": "WOUD is a Danish design brand founded with the vision of establishing a harmonious collective that blends the talents of innovative newcomers and experienced designers. With a broad and deep selection of refined furniture, home accessories and lighting designs, WOUD creates timeless pieces that are made for you - and made for use. Deeply anchored in the Scandinavian design heritage and enriched by creative perspectives from around the world, the collection draws inspiration from the clean lines of modern architecture and the serene, soothing hues found in nature. Embodying the essence of elegant simplicity, longevity and honest craftsmanship."                                    },
+                                    {
+                                      "id": "27",
+                                      "name": "Wabi Sabi Nordic",
+                                      "priority": 27,
+                                      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65e206863af331f90b359234_hero-p-1600.jpeg",
+                                      "website": "https://wabisabinordic.com/",
+                                      "facebook": "https://www.facebook.com/p/Wabi-Sabi-Nordic-100064028445616/",
+                                      "instagram": "https://www.instagram.com/wabisabinordic/",
+                                      "Pinterest": "https://www.pinterest.dk/wabisabinordic/",
+                                      "description": "Wabi Sabi Nordic is a Danish interior brand specializing in natural stone. With a simple and stringent design language, they let the material speak and be the defining element, both aesthetically and functionally. The brand was founded in 2020 by Stine Rosgaard, and today it offers a wide range of objects and furniture, all exclusively made from natural stone. Stone as a material has its limitations but also clear advantages, which have been a core aspect for the brand from day one. Beautiful and functional interior in stone, where the material is treated with care and respect, and where the purpose is to create products that endure for generations."
+                                      },
+
+                                     { "id": "28",
+                                      "name": "Linie Design",
+                                      "priority": 28,
+                                      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65cf68cf08240afa340e1c5e_hero-p-1600.jpeg",
+                                      "website": "https://www.liniedesign.com/",
+                                      "facebook": "https://www.facebook.com/LinieDesign",
+                                      "instagram": "https://www.instagram.com/liniedesign/",
+                                      "Pinterest": "https://www.pinterest.dk/linie_design",
+                                      "description": "Established in 1980 with the mission of creating quality, Danish-designed rugs, Linie Design is now one of the largest developers of handmade rugs in Europe and sold in over 70 countries worldwide, including its own brand store in Copenhagen. Originally built on collaborations with influential female weavers, today the talented team of designers is led by Urd Moll Gundermann as Head of Design, with all designs handmade in India by artisan craftsmen using time-honoured weaving and knotting techniques.All rugs are made with natural, certified materials where possible, complying with relevant European legislation and global associations that protect the environment and enable responsible sourcing, careful monitoring and transparent production."                                    
+                                    },
+                                    { "id": "29",
+                                    "name": "VERPAN",
+                                    "priority": 29,
+                                    "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65d5e38dde2c0bc4aaedfa92_hero-p-1600.jpeg",
+                                    "website": "https://www.liniedesign.com/",
+                                    "facebook": "https://www.facebook.com/verpancom",
+                                    "instagram": "https://www.instagram.com/verpancom",
+                                    "Pinterest": "https://www.pinterest.dk/verpancom",
+                                    "description": "VERPAN – for Verner Panton – is a design company working to preserve, reissue and recontextualise the Danish architect and designer’s radiant body of work – from minute objects to immersive environments. Verner Panton’s lighting, furniture and objects is testament to a playful and unconventional spirit, spanning his most celebrated work and recently unearthed archival pieces. VERPAN is proud to continuously build on the contemporary legacy of Verner Panton. Assembled with utmost care and craft, VERPAN’s collection brings an unparalleled heritage into a new era of life, work and interaction."                                  
+                                  },
+                                  { 
+                                    "id": "30",
+                                  "name": "Petite Friture",
+                                  "priority": 30,
+                                  "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65d7283af6e45f9112777d0a_hero-p-1600.jpg",
+                                  "website": "https://petitefriture.com/gb/",
+                                  "facebook": "https://www.facebook.com/PetiteFriture01/?locale=fr_FR",
+                                  "instagram": "https://www.instagram.com/petitefriture/",
+                                  "Pinterest": "https://www.pinterest.fr/petitefriture1/",
+                                  "description": "Petite Friture has made a name for itself as a design editor like no other, a universe to live in with a wholly independent style and tone. Now available in more than 70 countries, the independent French company has become more international with over 60 designers to its name and continues to push boldly forward to unearth new talents and to nurture a project with purpose. Petite Friture is proud to take a stand, seeking out the best solutions at every step of the way, using the right techniques and right people to better serve the planet and do something good. Petite Friture is more than just a design editor, it is a state of mind grounded in trust and optimism. Its ambition: contribute, through its collection to making good out of beauty."
+                                  },
+                                  { "id": "31",
+                                      "name": "Wendelbo",
+                                      "priority": 31,
+                                      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65d5e4e5b5d46281325274bb_hero-p-1600.jpeg",
+                                      "website": "https://www.wendelbo.com/",
+                                      "facebook": "https://www.facebook.com/Wendelbodk",
+                                      "instagram": "https://www.instagram.com/wendelbodk/",
+                                      "Pinterest": "https://www.pinterest.dk/wendelbointeriors/",
+                                      "description": "Starting as a small family workshop specialising in upholstery, the foundation stones of Wendelbo were laid in 1955. Six decades and three generations later, the story of the Danish family with a strong dedication to design continues to unfold and prosper. Today, Wendelbo is an international design company fusing uncompromising upholstery and complementing design icons. Forming long-lasting collaborations with international designers, their collection bridges skilled craftsmanship, supreme quality, and a sophisticated international design signature."
+                                    },
+                                    { "id": "32",
+                                      "name": "RUE VERTE",
+                                      "priority": 32,
+                                      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65dc9bbe0e5bf3ea68e67c50_hero-p-1600.jpeg",
+                                      "website": "https://www.rueverte.dk/",
+                                      "facebook": "https://www.facebook.com/rueverteplus/",
+                                      "instagram": "https://www.instagram.com/rueverte/",
+                                      "Pinterest": "https://www.pinterest.dk/rue_verte/",
+                                      "description": "RUE VERTE is a multi–brand boutique. The space is filled with a carefully curated selection of unique objects, vintage finds and art pieces mixed with high–end furnishings by some of the world’s foremost designers."
+                                                                        },
+                                    { "id": "33",
+                                      "name": "Silkeborg Uldspinderi",
+                                      "priority": 33,
+                                      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65dc877fd9765dc3b5e38b3c_hero-p-1600.jpg",
+                                      "website": "https://silkeborg-uld.com/",
+                                      "facebook": "https://www.facebook.com/SilkeborgUldspinderi",
+                                      "instagram": "https://www.instagram.com/silkeborg_uldspinderi",
+                                      "Pinterest": "https://www.pinterest.dk/silkeborg_uldspinderi/",
+                                      "description": "Silkeborg Uldspinderi is a third-generation design company based on decades of know-how dating as far back as 1947. Grown from the passion for raw wool and alpaca materials, craftsmanship and design, Silkeborg Uldspinderi proudly presents its stunning collection of exclusive, long-lasting throws, cushions, and scarfs – weaved for today in collaboration with textile designers Karin Carlander, Margrethe Odgaard, Stilleben and Tina Ratzer. Silkeborg Uldspinderi handpicks and carefully processes every single material sourced with respect for the animals, the farmers, and our planet, and is honored to be certified by the RWS. Feel the passion in every product, every design, and every thread with Silkeborg Uldspinderi."                                    },
+                                   
+                                      { 
+                                        "id": "34",
+                                      "name": "ateljé Lyktan",
+                                      "priority": 34,
+                                      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65d5ebeec4cb796e2d8fe390_Superdupertube_tease_3days_16x9%20Large.jpg",
+                                      "website": "https://www.ateljelyktan.se/",
+                                      "facebook": "https://www.facebook.com/ateljeLyktan",
+                                      "instagram": "https://www.instagram.com/ateljelyktan/",
+                                      "Pinterest": "https://www.pinterest.dk/wendelbointeriors/",
+                                      "description": "At the end of the vast flat lands of southern Sweden, at the edge of the Baltic Sea, lies the small town of Åhus. This is the setting for ateljé Lyktan, a lighting manufacturer with an 90-year long history and an archive of lights that have defined Swedish design over the last century. By creating innovative, energy efficient and sustainable lighting solutions adapted to people’s requirements and with the least possible impact on the environment, ateljé Lyktan contributes to, and takes responsibility for, a sustainable development within society in general."                                    
+                                    },
+                                    { 
+                                        "id": "35",
+                                      "name": "Ambientec",
+                                      "priority": 35,
+                                      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65d5ebeec4cb796e2d8fe390_Superdupertube_tease_3days_16x9%20Large.jpg",
+                                      "website": "https://ambientec.co.jp/pages/en",
+                                     
+                                      "instagram": "https://www.instagram.com/ambientec_official/",
+                                     
+                                      "description": "Ambientec, a Japanese light design company founded in 2009, envisions creating portable, indestructible lights with integrated LED technology, maintaining comfort and elegance. This philosophy is evident in its designs, each embracing a poetic quality of light that engages in a friendly dialogue with the illuminated space. Even turned off, Ambientec lights add beauty to any environment. Originally specializing in protective underwater cases for professional photography equipment, Ambientec's roots contributed expertise in creating portable gear resistant to extreme conditions. This background led to its venture into portable lamp design, exploring new frontiers in lighting for everyday spaces, indoors and outdoors."
+                                   },
+                                    { 
+                                        "id": "36",
+                                      "name": "Andersen Furniture",
+                                      "priority": 36,
+                                      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65cc8b0ceb70dde74bf7732c_Landscape_1Space%2BMood1920x1080-p-1600.jpg",
+                                      "website": "https://andersen-furniture.com/",
+                                      "facebook": "https://www.facebook.com/andersenfurniture/?locale=da_DK",
+                                      "instagram": "https://www.instagram.com/andersenfurniture/?hl=da",
+                                      
+                                      "description": "Andersen Furniture is a design company with an approach rooted in curiosity, innovation, and talent for the benefit of everyone. The company strives to create unique designs with a focus on a long-life cycle, developing contract furniture in close collaboration with talented architects and designers. This collaboration aims to challenge form, function, and material, resulting in furniture designed to last for generations. With passion, Andersen Furniture designs contract furniture that combines functionality and character, featuring a clean and modern expression. The collection reflects the Scandinavian history of craftsmanship while challenging contemporary forms, offering professional and contemporary furniture for various spaces."
+                                        },
+                                    { 
+                                        "id": "37",
+                                      "name": "Ukurant",
+                                      "priority": 37,
+                                      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65e09062e49b946299e0bf97_hero-p-1600.jpeg",
+                                      "website": "https://ukurant.com/",
+                                      
+                                      "instagram": "https://www.instagram.com/ukurant_/",
+                                      
+                                      "description": "Ukurant celebrates experimental approaches to craft, material and tradition, offering young designers a platform and spotlight to present their work and push the boundaries of the established design scene. Whether it is in unconventional ways or in tribute to past generations, Ukurant presents new perspectives in the world of design and showcases prospective design by emerging talents."
+                                      }
+                                    }
