@@ -395,6 +395,151 @@
                                       "instagram": "https://www.instagram.com/ukurant_/",
                                       
                                       "description": "Ukurant celebrates experimental approaches to craft, material and tradition, offering young designers a platform and spotlight to present their work and push the boundaries of the established design scene. Whether it is in unconventional ways or in tribute to past generations, Ukurant presents new perspectives in the world of design and showcases prospective design by emerging talents."
-                                      }
-    ]
-                                    }
+                                      },
+                                    { 
+                                        "id": "38",
+                                      "name": "Artemide",
+                                      "priority": 38,
+                                      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65cc9213bdf349ce1e281041_lamporimiljo18-kopi%202-p-1600.jpeg",
+                                      "website": "https://www.artemide.com/",
+                                      "facebook": "https://www.facebook.com/ArtemideGroup",
+                                      "instagram": "https://www.instagram.com/artemide_lighting/",
+                                      "Pinterest": "https://www.pinterest.it/artemideworld/_created/",
+                                      "description": "Artemide is one of the most known illumination brands in the world. Known for its "The Human Light" philosophy, Artemide boasts high skills in light design and innovation, with products originating from research and high-quality manufacturing."
+                                      },
+                                      { 
+                                        "id": "39",
+                                      "name": "De La Espada",
+                                      "priority": 39,
+                                      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65ccb25fb5e0ac9af91b107b_hero-p-1600.jpg",
+                                      "website": "https://delaespada.com/",
+                                      "facebook": "https://www.facebook.com/DeLaEspadaFurniture",
+                                      "instagram": "https://www.instagram.com/delaespada",
+                                      "Pinterest": "https://www.pinterest.co.uk/delaespada/",
+                                      "description": "De La Espada furniture is where leading design meets the highest level of European craftsmanship. At the De La Espada atelier in Portugal, expert craftspeople specialising in solid wood and upholstery combine handcraft and advanced technology to create truly unique, meaningful objects, meticulously detailed and engineered to last a lifetime. In addition to designing in-house, De La Espada also works closely with carefully selected international design partners. The product range reflects the diversity of the collaborators as well as a shared approach to materiality, functionality, and craft."
+                                       },
+                                      { 
+                                        "id": "40",
+                                      "name": "Jacob Jensen",
+                                      "priority": 40,
+                                      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65cf5aed0a98cc837a870344_JJ-Main_1920x1280%201-p-1600.jpg",
+                                      "website": "https://www.jacobjensen.com/",
+                                      "facebook": "https://www.facebook.com/jacobjensenbrand?locale=da_DK",
+                                      "instagram": "https://www.instagram.com/jacobjensen_brand/",
+                                      "Pinterest": "https://www.pinterest.it/artemideworld/_created/",
+                                      "description": "Jacob Jensen is a realm of Danish design, transforming everyday essentials into extraordinary objects that captivate, bringing surprise, delight, and meaningful impact. Since its beginnings in 1958, Jacob Jensen's design philosophy has given rise to pioneering products and design decisions that have left an indelible mark globally. Today, Jacob Jensen continues to shape dynamic and distinctive designs, grounded in Danish simplicity and, more crucially, the needs of the people who will use these products. Then, as now, the paramount objective is an unwavering commitment to enhancing the daily lives of everyone."
+                                        },
+                                        { 
+                                        "id": "41",
+                                      "name": "Paustian",
+                                      "priority": 41,
+                                      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65d725897d65dfa7b316ed5f_hero-p-1600.jpg",
+                                      "website": "https://www.paustian.com/",
+                                      "facebook": "https://www.facebook.com/paustian.dk",
+                                      "instagram": "https://www.instagram.com/paustian_dk/",
+                                      "Pinterest": "https://www.pinterest.dk/Paustian_dk/_created/",
+                                      "description": "Paustian is a Danish furniture and design house with an international outlook. Since 1964, Paustian has represented some of the most celebrated and renowned furniture designs, supplying furniture and interior solutions for both homes and organizations. Furthermore, Paustian has its own collection - Paustian Furniture Collection - that includes Danish design icons such as the Paustian Modular Sofa designed by Erik Rasmussen in 1969, and the Arctander Chair designed by Phillip Arctander in 1944."
+                                      },
+                                        { 
+                                        "id": "42",
+                                      "name": "FABRIC FOREST",
+                                      "priority": 42,
+                                      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65e098725a0c51e59901548a_hero-p-1600.jpeg",
+                                      "website": "https://fabric-forest.se/en/home/",
+                                      "facebook": "https://www.facebook.com/fabricforestswe",
+                                      "instagram": "https://www.instagram.com/fabric_forest/",
+                                      "Pinterest": "https://www.pinterest.se/fabricforest/",
+                                      "description": "Fabric Forest offers thoughtful interior design products for a sustainable future. They have used a new and innovative technique to develop a renewable textile material from Swedish trees, which gives the opportunity to transform the entire textile industry."
+                                     },
+                                        { 
+                                        "id": "43",
+                                      "name": "Tine K Home",
+                                      "priority": 43,
+                                      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65d715c82d3903e173f89eda_hero-p-1600.jpg",
+                                      "website": "https://www.tinekhome.com/da/",
+                                      "facebook": "https://www.facebook.com/tinekhomeofficial/",
+                                      "instagram": "https://www.instagram.com/tinekhomeofficial/",
+                                      "Pinterest": "https://www.pinterest.dk/tinekhome/_created/",
+                                      "description": "Tine K Home creates interior and furniture with Scandinavian simplicity in mind and has always believed in authentic living. Beautiful items are ever inspiring. Tine K Home is drawn to natural shades and honest materials. They perfectly blend in, and the different textures will complement each other and provide a harmonious contrast to treasured accessories and family heirlooms. This is forever the essence of timeless furniture and interior design."
+                                        },
+                                        { 
+                                        "id": "44",
+                                      "name": "TAKT",
+                                      "priority": 44,
+                                      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65dca2dfc20a6051b18e5db4_hero-p-1600.jpeg",
+                                      "website": "https://www.taktcph.com/",
+                                      "facebook": "https://www.facebook.com/TAKTCPH",
+                                      "instagram": "https://www.instagram.com/taktcph/",
+                                      "Pinterest": "https://www.pinterest.com/TAKTcph/",
+                                      "description": "TAKT is rethinking the approach to designing, constructing, and selling furniture, aiming to bring high-quality design to a broader audience. The brand is challenging the prevailing throw-away culture around furniture, asserting that furniture is not disposable. Furniture should be loved, cared for and handed to future generations. Therefore, all TAKT furniture is designed for repair. Their component based approach to design means that all parts are replaceable, so when life happens, you’ll be able to identify the right part of the furniture to repair or replace. This way, your furniture could last forever. Furthermore, TAKT is a B Corp and all products are certified with the EU Ecolabel. TAKT calls it 'Perpetual Sustainable Design'."
+                                     },
+                                        { 
+                                        "id": "45",
+                                      "name": "FRAMING",
+                                      "priority": 45,
+                                      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65ccd6ad705eb7c25fab684b_FRAMING2019_01%20Large.jpeg",
+                                      "website": "https://samirakudskpr.dk/",
+                                    
+                                      "instagram": "https://www.instagram.com/framing.events/",
+                                   
+                                      "description": "JFRAMING provides the framework for a variety of curated content with the aim to promote design, nationally as well as internationally. During 3daysofdesign, FRAMING will create a joint exhibition at a spectacular venue showcasing exclusive design brands and their novelties in an inspiring and relevant way. The current set design ensures a visual flow throughout the exhibition by presenting all new designs with an eye for the aesthetics. FRAMING offers a platform for creative collaborations within the design, interior and lifestyle industries."
+                                      },
+                                        { 
+                                        "id": "46",
+                                      "name": "Cane-line",
+                                      "priority": 46,
+                                      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65cca4bb92bbd48d4640ae0c_hero-p-1600.jpeg",
+                                      "website": "https://www.cane-line.com/",
+                                      "facebook": "https://www.facebook.com/canelinecom",
+                                      "instagram": "https://www.instagram.com/caneline/",
+                                      "Pinterest": "https://www.pinterest.dk/caneline/",
+                                      "description": "Cane-line is a Danish design company with more than 35 years of experience in designing and manufacturing functional and comfortable furniture. Life made comfortable is the very essence of Cane-line. All over the world the mission is the same - to make life comfortable and add value to life and the places you unwind and relax. Cane-line focus on quality and innovative technologies to create designs that will bring you joy today and in the future. Cane-line designs are made with the greatest care for the environment and the well-being of people."
+                                     },
+                                        { 
+                                        "id": "47",
+                                      "name": "Danish Architecture Center",
+                                      "priority": 47,
+                                      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/6405cf75da4a6b8f36d69b3d_63ee370fe3deb760747b48ef_Dansk_Arkitektur_Center_Cafe_terrasse_Foto_Rasmus_Hjortsh%25C3%25B8j_crop-p-1600.jpeg",
+                                      "website": "https://dac.dk/en/",
+                                      "facebook": "https://www.facebook.com/danskarkitekturcenter",
+                                      "instagram": "https://www.instagram.com/danisharchitecturecenter/",
+                                   
+                                      "description": "JDanish Architecture Center (DAC) is an international cultural attraction for everyone who wants to experience and understand how architecture and design create the framework for our lives. DAC is located in the heart of Copenhagen in the spectacular BLOX building which is situated right at the harbor front and as part of Copenhagen’s Cultural Quarter. Through exhibitions, tours, events, learning and networking, Danish Architecture Center creates space for inspiration, enjoyment and immersion."
+                                          },
+                                        { 
+                                        "id": "48",
+                                      "name": "blomus",
+                                      "priority": 48,
+                                      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65cc9b587687d0b98940bc6f_header-p-1600.jpeg",
+                                      "website": "https://www.blomus.com/",
+                                      "facebook": "https://www.facebook.com/blomusofficial/",
+                                      "instagram": "https://www.instagram.com/jacobjensen_brand/",
+                                      "Pinterest": "https://www.pinterest.de/blomus_de/",
+                                      "description": "Since its establishment in 1961, blomus has been a pivotal player in the interior design and accessories industry, specialising in intelligent, minimalist, and functional design for the contemporary home. Rooted in the German tradition of exceptional quality and highly skilled craftsmanship, blomus has achieved international recognition for its commitment to the honesty of materials, the purity of shape, and a passionate approach to design. The brand is based in Sundern (D) and maintains a creative hub in Copenhagen (DK), fostering collaboration with partners worldwide. blomus proudly considers itself an international company with a global market reach. Driven by passion and operated as a family business, blomus is dedicated to providing designs that endure and are cherished for generations to come."
+                                     },
+                                        { 
+                                        "id": "49",
+                                      "name": "Eva Solo",
+                                      "priority": 49,
+                                      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65cccba003e7157ec5b7f2b1_hero-p-1600.jpeg",
+                                      "website": "https://www.evasolo.com/",
+                                      "facebook": "https://www.facebook.com/evasoloofficial/",
+                                      "instagram": "https://www.instagram.com/evasolo_official/",
+                                      "Pinterest": "https://www.pinterest.dk/evasolopins/_saved/",
+                                      "description": "At Eva Solo, the team never sits still, tirelessly exploring new possibilities to infuse elegance, function, and design into people's homes, enriching their everyday lives. The Furniture Collection marks an expansion of their product line from kitchen and dining areas to equally exciting living spaces. Designed to be both simple and bold, charismatic and understated, each piece in the Furniture Collection is a modern classic that enhances any room it graces, regardless of its placement."
+                                      },
+                                        { 
+                                        "id": "50",
+                                      "name": "Tekla",
+                                      "priority": 50,
+                                      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65dc94d4f2b1b15c1816ba19_hero-p-1600.jpeg",
+                                      "website": "https://teklafabrics.com/",
+                                      "facebook": "https://www.facebook.com/teklafabrics/",
+                                      "instagram": "https://www.instagram.com/teklafabrics/",
+                                      "Pinterest": "https://www.pinterest.co.uk/teklafabrics/",
+                                      "description": "JEstablished in Copenhagen in 2017, Tekla creates elevated yet functional homeware pieces that centre a timeless, straightforward design expression. Since launching, Tekla has embodied an honest commitment to uncompromising quality. With a foundation in bedding, the full collection now comprises pieces for the entire home, including towels, sleepwear and kitchen linens – all made to be lived in and made to last. Tekla holds B Corp certification, joining a global movement of people using business as a force for good. Tekla is available at its Copenhagen store, globally online and through a handful of carefully selected retail partners in Europe, North America and the Asia-Pacific."
+                                     },
+                                    ]
+
+
+}
