@@ -1550,14 +1550,14 @@
     },
     {
       "id": "148",
-      "name": "101 Copenhagen",
+      "name": "MAROKK Tiles",
       "priority": 148,
-      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65cc8789e097d47a55d8e342_MonochromeLoftdiningarea-p-1600.jpg",
-      "website": "https://www.101cph.com/",
-      "instagram": "https://www.instagram.com/101cph/",
-      "facebook": "https://www.facebook.com/101CPH/",
-      "Pinterest": "https://www.pinterest.dk/101copenhagen/",
-      "description": "101 Copenhagen is a Danish design brand founded in 2017. With a vision to honor exquisite quality and craftsmanship, the collection encompasses furniture, lighting and accessories in a timeless, yet modern design. With a true passion for materials and refined textures, organic shapes and colours, 101 Copenhagen presents the epitome of classics and must-have novelties for Scandinavian and international interior connoisseurs alike."
+      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65d33f14c226de61d0fff4ca_hero-p-1600.jpeg",
+      "website": "https://www.marokk.com/",
+      "instagram": "https://www.instagram.com/marokk.dk/",
+      "facebook": "https://www.facebook.com/marokk.dk",
+      "Pinterest": "https://www.pinterest.dk/marokk_com/_shop/",
+      "description": "Experts in sourcing and curating handmade, high-end tiles from small local producers worldwide, MAROKK is passionate about creating unique tiles for true tile enthusiasts. MAROKK tile collections are designed to blend globally sourced tiles with Scandinavian aesthetics. From slim, minimalist mosaics made in Japan to pure lava stone tiles from Sicily, handmade cement tiles from Marrakech, and Zellij tiles from Fez—the oldest tile in the world still in large-scale production. The showroom in central Copenhagen displays a vast variety of the most intriguing tiles from around the world, sourced and curated especially for the Scandinavian market by MAROKK."
     },
     {
       "id": "149",
@@ -2102,6 +2102,510 @@
       "facebook": "https://www.facebook.com/Geberit.dk",
       "Pinterest": "https://www.pinterest.dk/Geberit_Danmark/",
       "description": "Geberit has a long tradition of quality, reliability and innovation. Since its beginnings in 1874, the company has helped to shape industry developments with products behind the wall. But with the Geberit bathroom series, Geberit has a new look behind the wall and in front of the wall. The reliable technology behind the wall is united with perfectly designed bathroom equipment in a balance between elegant design and outstanding function. The products are easy to clean, easy to use and increase comfort. Geberit enables endusers to experience this new world for themselves and is constantly demonstrating new possibilities for bathroom design. That is what Geberit call Design Meets Function."
+    },
+    {
+      "id": "201",
+      "name": "File Under Pop",
+      "priority": 201,
+      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65cccdbe4cdf649ade976e1d_23_08_FUP34006_sRGB_Low-p-1600.jpg",
+      "website": "https://www.fileunderpop.com/",
+      "instagram": "https://www.instagram.com/fileunderpop/",
+      "facebook": "https://www.facebook.com/fileunderpop",
+      "Pinterest": "https://www.pinterest.dk/fileunderpop/",
+      "description": "File Under Pop is driven out of passion for creative surface design. The company specialises in clothing floors, walls and ceilings in a curated universe of color and tactile textures using handmade tiles, paint, textiles and bespoke interior solutions. The Copenhagen-based brand, directed by Josephine Akvama Hoffmeyer, transforms rooms by equipping surfaces with tiles crafted from clay and lava stone, hand-painted wall pieces, textiles and durable, ultra matt paint. All products are processed by hand, combining traditional craftsmanship with modern technology, resulting in characteristic surfaces."
+    },
+    {
+      "id": "202",
+      "name": "AVOLT",
+      "priority": 202,
+      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65cc954a1be28d853118dbda_HEADER-Desktop_SQ1-p-1600.jpeg",
+      "description": "AVOLT is a Swedish based design studio that develops, designs and markets objects that extend electricity to devices, deploying Scandinavian design for homes, offices, retail environments and public spaces. AVOLT's ambition is to impact and empower people’s life by designing beautiful, timeless and sustainable objects that connects your devices to electricity, without compromising architecture and interior design."
+    },
+    {
+      "id": "203",
+      "name": "SACKit",
+      "priority": 203,
+      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65dc9ac80a46d917e10bc33b_hero-p-1600.jpeg",
+      "website": "https://sackit.eu/",
+      "instagram": "https://www.instagram.com/sackit_official/?hl=da",
+      "facebook": "https://www.facebook.com/SACKit.eu",
+      "Pinterest": "https://co.pinterest.com/sackiteu/",
+      "description": "SACKit embodies design meant for life, prioritising the creation of inviting spaces without compromising on quality. With meticulous attention to detail and a fervour for craftsmanship, the Danish brand crafts furniture that enhances daily living experiences. Each piece in SACKit's collection showcases a commitment to exemplary design and the utilisation of high-quality materials, ensuring longevity and durability. Sustainability and responsibility are foundational principles, aligning with the enduring traditions of Scandinavian design. In addition to creating designs meant to endure, the brand actively incorporates reusable and recycled materials into its design process."
+    },
+    {
+      "id": "204",
+      "name": "Muuto",
+      "priority": 204,
+      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65d34d4f7142b7c9a1e1c32d_hero-p-1600.jpeg",
+      "website": "https://www.muuto.com/",
+      "instagram": "https://www.instagram.com/muutodesign/",
+      "facebook": "https://www.facebook.com/Muuto",
+      "Pinterest": "https://www.pinterest.dk/muuto/",
+      "description": "Muuto is rooted in the Scandinavian design tradition characterized by enduring aesthetics, functionality, craftsmanship and an honest expression. By expanding this heritage with forward-looking materials, techniques and bold creative thinking, Muuto's ambition is to deliver new perspectives on Scandinavian design.In fact their name comes from muutos, meaning new perspective in Finnish. Muuto handpicks leading contemporary designers who are strong interpreters of the brand philosophy and combine their talents with the passionate Muuto creative team. Highly recognisable design due to its muutos: objects made sublime through new perspectives, enjoyed across the world, representing the best of Scandinavian design today."
+    },
+    {
+      "id": "205",
+      "name": "SAGA Space Architects",
+      "priority": 205,
+      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65dccb2cb333646faead5232_hero-p-1600.jpg",
+      "website": "https://www.saga.dk/",
+      "instagram": "https://www.instagram.com/saga_space_architects/",
+      "description": "SAGA’s vision for design lies at the intersection of Space, Earth, and technology. The commitment is to shape environments that inspire, connect, and improve human well-being. In space, SAGA’s architecture focuses on thriving, adapting Earth-centric principles to create a home-like atmosphere. On Earth, SAGA aims to enhance lives and experiences, informed by space technologies and the local environment. Through SAGA Lab, technology is developed for Space and Earth, crafting hardware and software. Polestar is pushing the boundaries of sustainable materials and automotive lighting. The exhibition shows the use of intelligent light for Space and Earth, and how production with organic materials like flax fiber can shape a sustainable future."
+    },
+    {
+      "id": "206",
+      "name": "Helle Mardahl Studio",
+      "priority": 206,
+      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65d720e513014bf766f57d13_20230606-HELLEMARDAHL36050-p-1600.jpg",
+      "website": "https://www.hellemardahl.com/",
+      "instagram": "https://www.instagram.com/hellemardahl/",
+      "facebook": "https://www.facebook.com/HelleMardahlDesign",
+      "Pinterest": "https://www.pinterest.dk/hellemardahlstudio/_shop/",
+      "description": "Helle Mardahl Studio operates at the intersection of art and functionality to create a dreamy universe of richly coloured glass designs of eccentric deviance. A graduate of London’s Central Saint Martins, Helle Mardahl is an artist and designer whose work is marked by a sense of lavishness and extravagance combined with a sense of flamboyance. As a designer, Helle Mardahl is concerned with the beauty of contrasts. Her richly coloured glass designs are alive and natural, fragile yet robust, simple yet ornate."
+    },
+    {
+      "id": "207",
+      "name": "TFurniture",
+      "priority": 207,
+      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65d5e1f0547f245a8d779065_hero-p-1600.jpeg",
+      "website": "https://tfurniture.dk/",
+      "description": "TFurniture is a Danish distributor/agent company responsible for the sale of several different international brands, all with a focus on the contract market, all brands stand for quality and with a focus on sustainable production and longevity. TFurniture started up in 2011 and represent the following brands ATBO, HOWE, Nordgröna, Intuit By Softrend, Q&M and Green Furniture Concept. TFurniture is per 1 May 2023 moved to Kanonbådskurene in Copenhagen."
+    },
+    {
+      "id": "208",
+      "name": "Origin Made",
+      "priority": 208,
+      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65d6062df936d0f179f8d063_Origin-Photo-Landscape2-p-1600.jpeg",
+      "website": "https://origin-made.com/",
+      "instagram": "https://www.instagram.com/originmade/",
+      "facebook": "https://www.facebook.com/originmade2020",
+      "Pinterest": "https://www.pinterest.pt/origin_made/",
+      "description": "Based in Porto, Origin Made fuses modern design sensibilities with masterful craft techniques honed over generations to produce collectible furniture, objects and lighting that celebrate thoughtful design and the authenticity of the human touch. The brand collaborates directly with solo artisans and skilled craftspeople who hold the keys to traditional ways of making. These makers breathe life into their creations, turning simple objects into conduits of cultural richness and individual mastery. Origin Made is a movement to encourage people to reflect on how the things around us are created, as well as to appreciate natural materials and craftsmanship."
+    },
+    {
+      "id": "209",
+      "name": "Zeitraum",
+      "priority": 209,
+      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65dc83ba2c6f301cbb51ddbf_zeitraummoebel-01-p-1600.png",
+      "website": "https://www.zeitraum-moebel.de/",
+      "instagram": "https://www.instagram.com/zeitraum_furniture",
+      "facebook": "https://www.facebook.com/zeitraummoebel",
+      "Pinterest": "https://www.pinterest.de/zeitraum/",
+      "description": "With experience and passion in working with solid wood, ZEITRAUM stands for a modern, reduced design language and sustainable approach. Founded in 1990, it was the first German furniture manufacturer to focus on combining ecology and design. Sustainability is not a trend but a fundamental corporate philosophy. Solid hardwoods from renewable sources are processed into furniture of lasting value by combining knowledge of materials with contemporary design. No chemical treatment of the wood is used. Due to solid wood's high reparability and their products' modular construction, the repair is easy and possible at any time. In cooperation with selected designers, ZEITRAUM develops high-quality furniture for living areas and contract sectors."
+    },
+    {
+      "id": "210",
+      "name": "Troldtekt",
+      "priority": 210,
+      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65d72354b9812edfeb88732e_hero-p-1600.jpg",
+      "website": "https://www.troldtekt.dk/",
+      "instagram": "https://www.instagram.com/troldtekt",
+      "facebook": "https://www.facebook.com/Troldtekt",
+      "Pinterest": "https://www.pinterest.dk/troldtekt",
+      "description": "Troldtekt designs, develops and manufactures acoustic panels made from Danish wood and cement. Troldtekt’s mission is to increase the acoustic comfort in buildings as well as securing a sustainable and healthy indoor climate – while also providing architects with a wide range of design choices. Since 2012, Troldtekt has placed the sustainable design concept Cradle to Cradle® at the heart of its business strategy. This means a continuous focus on adding value for the environment, for society and for business. The combination of wood and cement creates unique sound absorbing properties, ensuring good acoustics in any room. The material has a natural resilience and can handle moist environments while providing effective fire protection."
+    },
+    {
+      "id": "211",
+      "name": "LOUISE ROE",
+      "priority": 211,
+      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65cf6962580f504eafb80c97_hero-p-1600.jpeg",
+      "website": "https://www.louise-roe.com/",
+      "instagram": "https://www.instagram.com/louiseroecph/",
+      "facebook": "https://www.facebook.com/louiseroecph",
+      "Pinterest": "https://www.pinterest.dk/louiseroesocial/_created/",
+      "description": "THE ROE STUDIO is a curated series within the LOUISE ROE collection. The creative approach aspires to grasp alternative techniques and explore diverse materials, shapes and processes which appeal to an artistic sensibility. The array aims to exhibit an exclusive and avant-garde inspired character, attentive to artistic and creative elements. Unhindered by manufactural confinement and scheduling, creation takes place solely when an idea flourishes."
+    },
+    {
+      "id": "212",
+      "name": "Kvadrat Acoustics",
+      "priority": 212,
+      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65d76b3b2bdf040a67fb6a60_hero-p-1600.jpeg",
+      "website": "https://www.kvadrat.dk/en/kvadrat-acoustics",
+      "description": "Kvadrat Acoustics creates fully customisable, high-performance acoustic solutions characterised by aesthetic excellence and exceptional versatility, which are used to promote wellbeing in visionary architectural projects worldwide. Kvadrat Acoustics acoustic solutions sets the benchmark for sustainability, flexibility and durability and reflect the company's dedication to push aesthetic and technological boundaries."
+    },
+    {
+      "id": "213",
+      "name": "OFFECCT",
+      "priority": 213,
+      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65d5c955385d5809c8edafe6_hero-p-1600.jpg",
+      "website": "https://www.offecct.com/",
+      "facebook": "https://www.facebook.com/OFFECCT",
+      "description": "Everyone needs inspiring environments, that makes one feel good and encourages creativity and connections. Places that build internal pride and align with the company's culture and values. Since Offecct's founding in 1990, the brand has collaborated with the world's leading designers and architects to create unique furniture for offices and public spaces. Offecct’s highly desirable premium furniture exudes exclusivity and craftsmanship, embodying a high sense of fashion to elevate any space. Additionally, are offered customised options, allowing you to tailor the furniture to your desired colours or fabrics, or be guided by the brand’s suggested products to complement the envisioned interior design. Flexible and committed, accompanying you from the first call to the final result."
+    },
+    {
+      "id": "214",
+      "name": "HOLMRIS B8",
+      "priority": 214,
+      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65d76beacb3f13c273b96e02_hero-p-1600.jpeg",
+      "website": "https://www.holmrisb8.com/da/",
+      "instagram": "https://www.instagram.com/holmris_b8/",
+      "Pinterest": "https://www.pinterest.dk/holmrisb8/_created/",
+      "description": "TAs the leading furniture-industry sales and design company, HOLMRIS B8 creates room for people. And give you the best possible solution with everything you need gathered in one place. From the widest selection of designer furniture from the world’s leading brands to expert advice, uncompromising project management of deliverables, life-extending furniture care, upcycling and donation of surplus furniture. In Denmark and worldwide. In all that HOLMRIS B8 does, actions are guided by a deep respect for the Earth’s resources."
+    },
+    {
+      "id": "215",
+      "name": "Freifrau Manufaktur",
+      "priority": 215,
+      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65ccda8682ecb235d9accfc7_hero-p-1600.jpeg",
+      "website": "https://www.freifrau.com/",
+      "instagram": "https://www.instagram.com/freifrau_manufaktur/",
+      "facebook": "https://www.facebook.com/freifraumoebel",
+      "Pinterest": "https://www.pinterest.de/Freifrau_Manufaktur/",
+      "description": "What started back in 2012 as a one-man show has now, in little more than a decade, become an established European design brand: Freifrau Manufaktur. Operating from Lemgo, a small town in Westphalia, Germany, this exclusive manufacturer of seating furniture is characterised by the highest possible levels of comfort, lovingly-rendered details, and exacting quality and sustainability standards. Working with big-name designers and those at the start of their careers alike, since it was founded, Freifrau has built up a portfolio of timeless chairs, armchairs, and settees, wide-ranging and yet all with a unifying emphasis on individual comfort, total versatility, and undeniable individuality."
+    },
+    {
+      "id": "216",
+      "name": "Frame Studio",
+      "priority": 216,
+      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65d5bf42240e419186fbe39f_hero-p-1600.jpeg",
+      "website": "https://www.framestudio.dk/",
+      "instagram": "https://www.instagram.com/framestudio_dk/",
+      "facebook": "https://www.facebook.com/people/Frame-Studio/100088143325689/",
+      "Pinterest": "https://www.pinterest.co.uk/FrameStudio_dk/",
+      "description": "With a Scandinavian heritage and an uncompromising approach to design and aesthetic, Frame Studios strive to offer beautiful, handcrafted kitchens, bathrooms and wardrobes at affordable prices. Founded in 2019, Frame Studios ultimate passion is handmade interior. A standard interior does not exist, everything is tailormade to suit individual needs and desires, making sure all space is used optimally. Their range includes carefully selected natural stones, wood species, colours and handles. A visit to Frame Studio will not be lost on you."
+    },
+    {
+      "id": "217",
+      "name": "Sony",
+      "priority": 217,
+      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65d5d56a764f0ba866706f43_hero-p-1600.jpeg",
+      "website": "https://www.sony.com/en/design",
+      "instagram": "https://www.instagram.com/sonydesign_official/",
+      "description": "Sony has always been at the forefront of design and became one of the first companies to create an in-house creative studio. Since its inception in 1961, Sony has built its reputation for having a leading and award-winning global design team. Today the team’s contribution has expanded beyond purely product design to a wide range of design activities, including user experience, communication, entertainment and more. Design Centre Europe is an extended arm of Creative Center, continuously exploring the possibilities of design, working with people around the world to realize richer experiences and more comfortable lifestyles – whilst creating ‘new standards’ of value through the fusion of creativity and technology."
+    },
+    {
+      "id": "218",
+      "name": "Swedese Möbler",
+      "priority": 218,
+      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65d5dfea6882439c400086c5_hero-p-1600.jpeg",
+      "website": "https://www.swedese.se/en",
+      "instagram": "https://www.instagram.com/swedeseab/",
+      "facebook": "https://www.facebook.com/search/top?q=swedese%20m%C3%B6bler",
+      "description": "Swedese is a classic Swedish furniture producer with a strong anchor in both the public and domestic domain. Swedese's ideals are the same today as they have been for the past seventy years. These are to create beautiful furniture for the future, which build on the foundations of Scandinavian modern traditions, designed by forward-looking designers who share in the timeless ideals of architecture. Swedese was founded in 1945 by the two brothers Yngve and Jerker Ekström and Bertil Sjöqvist, under the company name ESE Möbler. The headquarters are located to Vaggeryd in Småland, Sweden, where one of the factories can be found. The second factory is located in Äng, a small village outside Nässjö, Sweden."
+    },
+    {
+      "id": "219",
+      "name": "Anker Bak",
+      "priority": 219,
+      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65cc8d6fcee7d488d4fa3433_Billede1overtekst-p-1600.jpeg",
+      "website": "https://www.ankerbak.com/",
+      "instagram": "https://www.instagram.com/ankerbakdk/",
+      "facebook": "https://www.facebook.com/ankerbakdk",
+      "Pinterest": "https://www.linkedin.com/in/anker-bak-806b8018",
+      "description": "Anker Bak is a pioneering designer, merging the essence of Nordic cabinetmaking traditions with innovative, regenerative furniture and assistive aids. Recognized for his empowering and caring practice, Bak experiments with wood to address real-life challenges, notably improving the lives of the elderly and people with disabilities. He creates vital furniture pieces still awaiting full industry recognition. Collaborating with esteemed entities like Carl Hansen & Søn, Takumi Kohgei, and Fredahl Rydéns, Bak was honored with the Wegner Prize in 2023 for his holistic and crucial design approach. As a thought leader in an emerging field, he is dedicated to ushering in a new era with his concept of Dignity Design."
+    },
+    {
+      "id": "220",
+      "name": "MOEBE",
+      "priority": 220,
+      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65d349d4210fac87090eac10_hero-p-1600.jpeg",
+      "website": "https://www.moebe.dk/",
+      "instagram": "https://www.instagram.com/moebecph/",
+      "facebook": "https://www.facebook.com/moebecph",
+      "Pinterest": "https://www.pinterest.se/moebecph/_created/",
+      "description": "MOEBE is a design studio that creates beautiful, simple, and responsibly made furniture, lighting, and design objects with great details that last a lifetime. It's that simple. Formed in 2014 by architects Martin de Neergard Christensen, Nicholas Oldroyd and cabinet maker Anders Thams, they develop all of their designs in-house from the studio workshop on the island of Amager in Copenhagen. With each design, they aim to create an intelligently constructed, high-quality piece that not only works well and looks great, but also encourages people to enjoy life with fewer distractions; people who crave honesty, simplification, and a need for ‘less’."
+    },
+    {
+      "id": "221",
+      "name": "BRANDT Collective",
+      "priority": 221,
+      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65deeeff5aafd30e8d07ae05_BRANDT_Collective_1920x1080%201.jpg",
+      "website": "https://www.brandtcollective.com/",
+      "instagram": "https://www.instagram.com/brandtcollective/",
+      "facebook": "https://www.facebook.com/brandtcollective",
+      "Pinterest": "https://www.pinterest.dk/brandtcollective/_created/",
+      "description": "WBRANDT Collective is a Danish design-driven brand created by renowned designer Julie Brandt. Their holistic approach to product creation results in collections that harmoniously unite functionality and aesthetics. Renowned for their hardware such as handles, knobs, lighting, home fragrance, and accessories, the brand is recognized for its craftsmanship and use of high-quality materials and unique finishes. With a Scandinavian sense of aesthetics and a strong international appeal, BRANDT Collective is a fusion of influences merging contrasts to create cohesion, balancing the raw and the refined. Explore the essence of understated elegance where details make the difference and where every product adds THE FINISHING TOUCH."
+    },
+    {
+      "id": "222",
+      "name": "Vipp",
+      "priority": 222,
+      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65d7174c76aad2268925347a_hero-p-1600.jpg",
+      "website": "https://vipp.com/",
+      "instagram": "https://www.instagram.com/vipp/",
+      "facebook": "https://www.facebook.com/vippdotcom",
+      "Pinterest": "https://www.pinterest.dk/vippdotcom/_created/",
+      "description": "Vipp might have begun with a pedal-controlled bin (the only bin that has found a spot in MoMA’s permanent design collection) but over the last 80 years, the Danish brand has grown to include kitchens, furniture, lighting, and accessories. In recent years, Vipp has expanded beyond objects to design and open six hotels as well as two venues in Copenhagen: the Vipp Pencil Factory and Vipp Garage. Whether it is developing a bin or a kitchen, creating a furniture line or hosting a hotel or supper club, Vipp always measure the quality of products and concepts on their long-term ability to provide an experience out of the ordinary."
+    },
+    {
+      "id": "223",
+      "name": "Nychair X",
+      "priority": 223,
+      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65d5c33527508cf894dbb6fc_hero.jpg",
+      "website": "https://nychairx.eu/",
+      "instagram": "https://www.instagram.com/nychairx_eu/",
+      "description": "Nychair X is a folding lounge chair designed in 1970 by Takeshi Nii, continuously made in Japan. The simple yet elegant design, combined with comfort, versatility and repairability, made Nychair X a chair loved by generations. Thanks to its light weight and foldability, it can be easily moved between rooms and does not take much space when folded, making it a great companion for contemporary living spaces, where rooms serve multiple functions during the day. Each chair model can be paired with the Ottoman, which can also be used independently as a stool. Maintenance can be easily performed at home and different parts can be replaced, so the chair can be enjoyed for many years. Awarded with Long Life Design and Good Design awards."
+    },
+    {
+      "id": "224",
+      "name": "Fogia",
+      "priority": 224,
+      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65d6013ddfaff7ba88b6be98_1%20(2)-p-1600.jpg",
+      "website": "https://www.fogia.com/",
+      "instagram": "https://www.instagram.com/fogiacollection",
+      "facebook": "https://www.facebook.com/fogiacollection",
+      "Pinterest": "https://www.pinterest.se/fogia",
+      "description": "Fogia is an award-winning Swedish design brand, known for utmost quality, impeccable beauty and a drive for innovation. The brand collaborates with some of the most progressive contemporary designers to create forever pieces that push the boundaries of the Scandinavian design aesthetic. Through a genuine knowledge of craft and construction, Fogia manufactures high quality products with purposeful function without compromising on form. A Fogia design icon is characterized by its ability to surprise and innovate to break with traditional norms. Unmistakable, clever, straight-forward and life-enhancing by nature, they’re made to be used and loved for generations to come."
+    },
+    {
+      "id": "225",
+      "name": "Vitra",
+      "priority": 225,
+      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65d5e44b003c2972559b7e03_6137581_2020_08_Vitra-Haus_Aussen_010_FullRes_v_fullbleed_1440x.jpeg",
+      "website": "https://www.vitra.com/",
+      "instagram": "https://www.instagram.com/vitra",
+      "facebook": "https://www.facebook.com/vitra",
+      "Pinterest": "https://www.pinterest.com/vitra",
+      "description": "FVitra believes that environments shape thoughts and feelings, be it at home, work, or on the go. Vitra, a family business in its third generation, strives daily to enhance surroundings through the power of design. The company is committed to an environmental, cultural, and commercial mission. Environmental consciousness is embedded in every facet of Vitra’s work, evident in product development, manufacturing processes, raw material sourcing, and supply chain organisation. Vitra embraces every new insight as an opportunity for further development."
+    },
+    {
+      "id": "226",
+      "name": "LIGHT-POINT",
+      "priority": 226,
+      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65cf67e6aa54f0d2315b2588_hero-p-1600.jpeg",
+      "website": "https://light-point.com/",
+      "instagram": "https://www.instagram.com/lightpointcom",
+      "facebook": "https://www.facebook.com/lightpointcom",
+      "Pinterest": "https://www.pinterest.dk/lightpointcom",
+      "description": "Since 1995, LIGHT-POINT has been producing innovative lighting products based on a long tradition of superior quality and craftsmanship. It has brought to market an extensive product collection in an ultra-modern and distinct international style, a design language that continues to unfold today. The products express a consistent approach: the quest for the ideal balance of perfect form, the latest in LED technology, in a design that is both aesthetically timeless and minimal. In 2022, LIGHT-POINT became a member of an exclusive group of companies to partner with the internationally recognised premium design consultancy, Studio F. A. Porsche. The strategic vision of this partnership is to extend and strengthen international markets."
+    },
+    {
+      "id": "227",
+      "name": "Warm Nordic",
+      "priority": 227,
+      "image": "hhttps://assets-global.website-files.com/6195025159d3bccd9b338ebb/65d7245c96e2063b7274eaa3_hero-p-1600.jpg",
+      "website": "https://www.warmnordic.com/dk/hjem",
+      "instagram": "https://www.facebook.com/warmnordic/",
+      "facebook": "https://www.facebook.com/warmnordic/",
+      "Pinterest": "https://www.pinterest.dk/warmnordic/_created/",
+      "description": "Warm Nordic is a Danish design brand anchored in Scandinavian design history. The company believes that good design, whether it's iconic design classics or new contemporary designs, radiates the quality, authenticity, and warmth inherent in the Scandinavian design tradition. Warm Nordic features a colourful and charming design universe full of personality, encapsulating the timeless and inclusive essence of the Nordic spirit. Warm Nordic is thrilled to announce this year's expansion of its collaboration on the Fried Egg sofa with the world-renowned Swiss-Argentinian designer, Alfredo Häberli."
+    },
+    {
+      "id": "228",
+      "name": "NANETTE DEKOOL",
+      "priority": 228,
+      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65d71ac957d2ca838240a402_hero-p-1600.jpg",
+      "website": "https://www.nanettedekool.com/",
+      "instagram": "https://www.instagram.com/nanettedekool/",
+      "facebook": "https://www.facebook.com/fogiacollection",
+      "Pinterest": "https://www.pinterest.se/fogia",
+      "description": "Nanette de Kool graduated from the Illinois Institute of Art, Chicago. Back in Europe she worked for textile studios in Antwerp and Amsterdam, where her love for 3D knits began. Nanette loves working with circular 3D knits: remains like leftover textiles and yarns including production flaws. Imperfections are part of the creation; tactility and the texture of the fabric add to her visual language. She screen-prints, washes, cuts and then re-assembles the textile, creating new compositions. This leads to more depth in color, character, texture and story. Next to wall-hangings, Nanette also makes suspended screens, room-dividers and made-to-measure pieces."
+    },
+    {
+      "id": "229",
+      "name": "Rockfon",
+      "priority": 229,
+      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65dc9d3b7aa2703425e7f149_hero-p-1600.jpeg",
+      "website": "https://www.soundsbeautiful.com/",
+      "instagram": "https://www.instagram.com/rockfon_official/",
+      "Pinterest": "https://www.pinterest.dk/rockfon/",
+      "description": "Everyone can spot brilliant interior design in a heartbeat, but brilliant acoustic design must be experienced. Today, it’s all about healthy, nature inspired buildings with flexible, multipurpose zones and inspiring interiors for thinking, relaxing, and enjoyment. This is where Rockfon comes into play, with over 60 years of perfecting acoustics to create a world that sounds good to everyone. Inspired by the beauty of nature, Rockfon's acoustic solutions bring the wow factor to today’s multipurpose interiors, focusing on human well-being while accelerating sustainability efforts. Rockfon solutions offer the highest sound absorption, specially curated colours, and organic materials to realise the design vision. Sounds beautiful."
+    },
+    {
+      "id": "230",
+      "name": "secondome",
+      "priority": 230,
+      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65d886f02b23078b99b219d6_hero.jpg",
+      "website": "https://www.secondome.biz/",
+      "instagram": "https://www.instagram.com/secondomedesign/",
+      "facebook": "https://www.facebook.com/secondomegallery",
+      "Pinterest": "https://www.pinterest.it/secondome2/",
+      "description": "Founded by Claudia Pignatale in 2006, Secondome produces its own collection of Furniture and objects working to launch experimental designers, artisans and master craftsmen. Its mission lies in highlighting both the high quality manufacture of the Made in Italy brand and the originality of products, emphasizing the tradition of Italian craftsmanship whilst breaking the mold of lifeless objets d’art. The artisanal nature of Secondome’s production makes each piece individual and highly personalized."
+    },
+    {
+      "id": "231",
+      "name": "Royal Danish Academy",
+      "priority": 231,
+      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65d5d1226d849dd8666454c6_hero-p-1600.jpeg",
+      "website": "https://kglakademi.dk/"
+    },
+    {
+      "id": "232",
+      "name": "ClassiCon",
+      "priority": 232,
+      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65d60b0605bfa2a57c4612f8_hero-p-1600.jpeg",
+      "website": "https://www.classicon.com/en/homepage.html",
+      "instagram": "https://www.instagram.com/classicon/",
+      "facebook": "https://www.facebook.com/ClassiCon",
+      "Pinterest": "https://www.pinterest.de/classiconmuc/",
+      "description": "Furniture design that convinces and accompanies people through their lives, offering reliability and beauty that is appreciated and, ideally, passed down through generations. Owner Oliver Holy has been producing this type of furniture at ClassiCon since 1990. The company specialises in innovative furniture that demonstrates the courage to depart from the familiar. Many pieces boast prestigious design legacies. To facilitate the creation of numerous such stories, ClassiCon continually expands its network of partners and local craft businesses. Through its production methods, the company aims to showcase craftsmanship and draw upon a wealth of experience, ensuring its preservation for future generations. The ethos is to think globally but act locally, emphasising both environmental and community care."
+    },
+    {
+      "id": "233",
+      "name": "MOTARASU",
+      "priority": 233,
+      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65d34c90bb0231a2e3c50e7b_hero-p-1600.jpeg",
+      "website": "https://www.motarasu.com/",
+      "instagram": "https://www.instagram.com/_motarasu/",
+      "facebook": "https://www.facebook.com/Motarasu-394082551345180",
+      "Pinterest": "https://www.pinterest.dk/search/my_pins/?q=motarasu&rs=filter",
+      "description": "Founded in 2019, MOTARASU creates lighting, furniture and interior that calls for being present in the now. Fusing the design heritage of Denmark with the aesthetics of Japanese craftsmanship, the efforts are focused on the philosophy of surrounding oneself with few yet beautiful, high-quality objects that bring joy. Closeness to nature is fundamental to all MOTARASU designs, where material and techniques combine to create tactile and sculptural objects that each place natural materials central to both design and functionality. During 3daysofdesign MOTARASU launches the new CHO lamp series by Ernst & Jensen. Furthermore new lamps by Tani Toshiyuki will be launched."
+    },
+    {
+      "id": "234",
+      "name": "Duus & Møller",
+      "priority": 234,
+      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65dc8f371facc10ab876f646_hero-p-1600.jpg",
+      "website": "https://www.duusmoeller.com/en/",
+      "instagram": "https://www.instagram.com/duusmoeller_furniture/",
+      "facebook": "https://www.facebook.com/Duusmoeller",
+      "Pinterest": "https://www.pinterest.dk/Duusmoeller/",
+      "description": "Good quality, craftsmanship and Danish production were the key principles that Duus & Møller was founded upon, and the ambition is to keep working by that mantra. The passion for Danish craftsmanship and Danish design is rooted in traditions and a guiding principle to increase the sustainability of the Duus & Møller furniture collection. Duus & Møller collaborates with competent architects and combine Danish craft traditions with new ideas from young, talented cabinetmakers. Duus & Møller furniture is developped with inspiration from classic, Danish design. This is done through minimalistic models made from solid fsc certified wood, handcrafted and cared for with a respect for the rawmaterial. Duus & Møller furniture is made to last."
+    },
+    {
+      "id": "235",
+      "name": "Nuura",
+      "priority": 235,
+      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65d5c29418a3150360a0a2f2_hero-p-1600.jpeg",
+      "website": "https://www.nuura.com/",
+      "instagram": "https://www.instagram.com/nuuralighting",
+      "facebook": "https://www.facebook.com/nuuralighting",
+      "Pinterest": "https://www.pinterest.dk/nuuralighting",
+      "description": "Centred around the chandelier, a symbol of generosity and abundance, Nuura reimagines traditional lighting designs in a modern context. Offering enduring collections that have the ability to transform a room, elevate a mood and enhance well-being, refined lighting fixtures in organic forms build upon the Nordic design tradition and leverage new technologies and carefully selected materials to illuminating effect. Founded in 2017 by Sofie Refer, Nadia Lassen and Peter Østerberg."
+    },
+    {
+      "id": "236",
+      "name": "Ancher",
+      "priority": 236,
+      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65d5eaf75032dac32f771732_hero-p-1600.jpeg",
+      "website": "https://ancherstudio.com/",
+      "instagram": "https://www.instagram.com/ancher_studio/",
+      "facebook": "https://www.facebook.com/profile.php?id=61552780172363",
+      "description": "Handmade tableware for restaurants, interior design projects and busy family kitchens. The exquisite designs are not only visually captivating but also built with durability to withstand the demands of a modern kitchen. This is the guiding philosophy behind Ancher, a new tableware brand that emphasises small-scale, local production and welcomes guest designers and customised collaborations in its workshop. The focus is on creating ceramics that invite repeated use, requiring meticulous attention to individual design. The name Ancher pays homage to Nordic roots, anchoring itself in the region's unique understanding of light, colour, and form."
+    },
+    {
+      "id": "237",
+      "name": "Miniforms",
+      "priority": 237,
+      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65d34875cf6463a2ced3c290_hero-p-1600.jpeg",
+      "website": "https://www.miniforms.com/en/",
+      "instagram": "https://www.instagram.com/miniformsofficial/",
+      "facebook": "https://www.facebook.com/miniformsofficial",
+      "Pinterest": "https://www.pinterest.it/miniforms",
+      "description": "Miniforms is a bizarre entity, adorned in colourful attire with unconventional shapes, often engaged in talks with young, talented designers. Her motto is “Making Craftsmanship Last,” reflecting a deep belief in uniqueness where hands play a significant role, and machines assist in aligning with modern manufacturing processes. Sensitivity to environmental matters is for her a strong social responsibility. This commitment leads Miniforms to manufacture locally with high consideration to circular economy principles, extending from material choices to collaborating with suppliers who share similar aspirations."
+    },
+    {
+      "id": "238",
+      "name": "Pablo Designs",
+      "priority": 238,
+      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65d5cc151a5c40f313542b17_hero-p-1600.jpeg",
+      "website": "https://www.pablodesigns.eu/english-home",
+      "instagram": "https://www.instagram.com/pablodesignseu/",
+      "description": "Pablo believes that the right light can transform any environment. Pablo Designs is committed to creating lasting solutions that provide a lifetime of illumination. By fusing the highest technical sensibilities with the most appropriate material palette, Pablo is able to create unique, timeless designs with the power to transform any environment. Pablo was founded in San Francisco in 1993 by Venezuelan-born industrial designer Pablo Pardo. Embracing a less-is-more ideology, Pablo frequently challenges traditional design metaphors, developing more practical solutions distilled down to their essence, form and light."
+    },
+    {
+      "id": "239",
+      "name": "Woodio",
+      "priority": 239,
+      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65d5e589dae03a2fb6697982_hero-p-1600.jpeg",
+      "website": "https://www.woodio.fi/en",
+      "instagram": "https://www.instagram.com/woodiodesign/",
+      "description": "Woodio is a modern Finnish interior and design brand that combines the best of Nordic design traditions with a sustainable biomaterial innovation in a contemporary way. Woodio’s certified material is a 100% waterproof wood composite that offers a more ecological alternative to ceramic, with its significantly lower carbon footprint. Woodio brings the best of Nordic design traditions and skill with natural materials to the present. Woodio wants to bring joy to homes with stunning and sustainable design, offering products that will look good decade after decade. As they are durable and easy to care for, Woodio’s solutions are also an excellent choice for public spaces. All Woodio products are manufactured in Helsinki, Finland."
+    },
+    {
+      "id": "240",
+      "name": "La Boite concept",
+      "priority": 240,
+      "image": "hhttps://assets-global.website-files.com/6195025159d3bccd9b338ebb/65d61835db1cd5b633b10969_PR_LINK_Close_UP-02-1920x1080-p-1600.jpg",
+      "website": "https://www.laboiteconcept.com/en/",
+      "instagram": "https://www.instagram.com/la_boite_concept/",
+      "facebook": "https://www.facebook.com/La.Boite.concept",
+      "description": "La Boite concept is a French manufacturer of all-in-one loudspeakers. Since 2008 it has been asserting its vision by imagining demanding audio products. This know-how in acoustics has been passed on for three generations: from Marie CAGNIARD YERAMIAN, visionary founder in 1938 of the famous SIARE loudspeaker brand, to her grandson Timothée CAGNIARD, La Boite concept’s director since its creation. Its products combine the quality of traditional HiFi with a simplified use, accessible to all and with a unique aesthetic. The company is based in the South of France where its laboratory develops patented technologies and where its own design office imagines each of their products. With no concessions on either sound or design."
+    },
+    {
+      "id": "241",
+      "name": "cc-tapis",
+      "priority": 241,
+      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65d6013ddfaff7ba88b6be98_1%20(2)-p-1600.jpg",
+      "website": "https://www.cc-tapis.com/",
+      "instagram": "https://www.instagram.com/cc_tapis/",
+      "Pinterest": "https://www.pinterest.it/cc_tapis/",
+      "description": "Fcc-tapis is an Italian rug maker which produces contemporary hand-made rugs. The company was founded by Nelcya Chamszadeh and Fabrizio Cantoni in France. In 2011 cc-tapis moved to Milan where a team of designers lead by Daniele Lora, art-director and partner, innovate through a new approach to traditional methods.   A strong respect for the materials and for ancient craft is reflected in the company’s eco-friendly approach to every step of production, ranging from the hand spinning of the softest materials to the use of purified rainwater for the washing of the final products, making each one of cc-tapis rugs unique.  "
+    },
+    {
+      "id": "242",
+      "name": "AYTM",
+      "priority": 242,
+      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65e6f1b962fa441afb05f438_AYTMx3DAYSOFDESIGN(LANDSCAPE)4-p-1600.jpg",
+      "website": "https://aytmdesign.com/",
+      "instagram": "https://www.instagram.com/aytmdesign/",
+      "facebook": "https://www.facebook.com/aytmdesign",
+      "Pinterest": "https://www.pinterest.dk/aytmdesign/_shop/",
+      "description": "The idiom of AYTM is characterized by simple and stylish shapes, complemented by the sculptural structures of Scandinavian interior classics that stand out for their bold, voluminous, and eye-catching nature. The purpose of AYTM's existence is to reinvent design traditions, providing interior design with a new perspective through a more expressive approach to Scandinavian design. The magic unfolds in the contrasts between clean lines, materials, and surfaces, enhanced by a balanced and soft palette of colours, adding the unique touch to AYTM. With this, the essence of every AYTM collection is focused on high quality and exquisite details, creating exclusive yet long-lasting pieces that excel in both functionality and aesthetic expressions."
+    },
+    {
+      "id": "243",
+      "name": "Eberhart Furniture",
+      "priority": 243,
+      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65ccbacfdb9db135a47af842_hero-p-1600.jpeg",
+      "website": "https://www.eberhart-furniture.com/",
+      "instagram": "https://www.instagram.com/eberhartfurniture/",
+      "facebook": "https://www.facebook.com/eberhartfurniture/",
+      "Pinterest": "https://www.pinterest.dk/EberhartFurniture/",
+      "description": "Eberhart Furniture was founded in 2014 by Esben Christoffersen and Rune Vigil Nielsen. This year marks a significant milestone for the company, as it celebrates its 10th anniversary. Eberhart Furniture creates pieces to stand the test of time, both in terms of design and craftsmanship. The focus is on functionality, with a fusion of simple geometries and materials that showcase their own natural beauty. This approach has resulted in a collection of furniture synonymous with authenticity and durability. Each piece is intended to adapt to the changing needs of modern living, retain a timeless appeal, and ultimately transcend generational gaps to become a new part of your heritage."
+    },
+    {
+      "id": "244",
+      "name": "ID Collective",
+      "priority": 244,
+      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65e703f6afb5cf8b040af339_landcape3days-p-1600.jpg",
+      "instagram": "https://www.instagram.com/collective_id/",
+      "description": "ID Collective is a newly established design collective of 10 recent design graduates. The community has emerged from a shared desire to create and challenge each other, pushing creative boundaries to enhance their skills as designers. Through close collaboration, members tackle new design challenges, each producing original works based on a shared design brief with defined constraints and objectives. Recognising the importance of responsible design practices, the group is dedicated to exploring new approaches, challenging conventional norms in furniture design and pave the way for more eco-conscious solutions. They hope to inspire future design generations and contribute to the dialogue surrounding design innovation and sustainability."
+    },
+    {
+      "id": "245",
+      "name": "Neil David",
+      "priority": 245,
+      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65e8321aff2c6fb7b20d8ee4_Angle_3-seater_kvadrat_divina_small-p-1600.jpg",
+      "website": "https://neildavid.com/",
+      "instagram": "https://www.instagram.com/neildavidfurniture/",
+      "Pinterest": "https://nl.pinterest.com/neildaviddesign/",
+      "description": "MNeil David designs products where the idea is, and stays, the centrepiece of the design process from beginning to end. They honour the simplicity of geometric forms in many of there products. Construction strategies are also often creatively integrated to be a part of the design solution. The company strives to use natural materials as much as possible. For centuries natural materials were a proven, reliable element in all kinds of products.The goal is to strive and get back to a better balance between what we use from the planet and what we give back through planting, recycling or otherwise."
+    },
+    {
+      "id": "246",
+      "name": "Thayra Correia",
+      "priority": 246,
+      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65e6f901084432b495139e94_AltaResoluo-1-p-1600.jpg",
+      "website": "https://www.thayracorreia.com/",
+      "instagram": "https://www.instagram.com/thayra_c/",
+      "description": "The brand was born from a passion for objects and an immense curiosity about materials. Material is the main focus in the development process of the projects. The right material gives the piece personality and soul, revealing its unique identity. The collections are in limited editions, and the entire production is made in Lisbon, where the company is based. The producers are small local factories, workshops, and artisans, many existing for over 30 years. Longevity is the thought behind the brand. The idea is reflected in the products through objects of simple forms that are easy to take care of, allowing the pieces to cross the time and creating interaction with the material."
+    },
+    {
+      "id": "247",
+      "name": "SAVO",
+      "priority": 247,
+      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65e83361b1d30b6d7e8a827a_SAVO_360_studio_HERO_all_chairs_LR-p-1600.jpg",
+      "website": "hhttps://www.savo.com/",
+      "instagram": "https://www.instagram.com/savoofficeseating/",
+      "facebook": "https://www.facebook.com/Savo.Office.Seating",
+      "Pinterest": "https://www.pinterest.se/savoofficeseating/",
+      "description": "Miniforms is a bizarre entity, adorned in colourful attire with unconventional shapes, often engaged in talks with young, talented designers. Her motto is “Making Craftsmanship Last,” reflecting a deep belief in uniqueness where hands play a significant role, and machines assist in aligning with modern manufacturing processes. Sensitivity to environmental matters is for her a strong social responsibility. This commitment leads Miniforms to manufacture locally with high consideration to circular economy principles, extending from material choices to collaborating with suppliers who share similar aspirations."
+    },
+    {
+      "id": "248",
+      "name": "Veark",
+      "priority": 248,
+      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65e832affc63dd7298b10970_210824_VEARK67785-p-1600.jpg",
+      "website": "https://veark.com/",
+      "instagram": "https://www.instagram.com/veark_com/?hl=en",
+      "description": "Based in Copenhagen, Veark is a contemporary kitchenware company dedicated to developing sustainable, honest and high quality tools for everyday use."
+    },
+    {
+      "id": "249",
+      "name": "FRIPON",
+      "priority": 248,
+      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65e6f5baedb61ea762c2570f_hero-p-1600.jpg",
+      "instagram": "https://www.instagram.com/fripon_kbh/",
+      "description": "Copenhagen-based design company FRIPON is relaunching the classic Philosopher Lamp, designed by the Danish architect Lars-Erik Ejlers in the early 1990s. The lamp was originally made for Restaurant Cap Horn in Nyhavn. In the following years, the lamp, designed with a notable brass shade, became a rarity due to very limited distribution but still found its way and is gracing iconic bars and restaurants throughout Copenhagen. FRIPON’s first endeavour is to breathe new life into the classic Philosopher Lamp, once again. The Philospher Lamp is produced locally in workshops located in the metropolitan area of Copenhagen."
+    },
+    {
+      "id": "250",
+      "name": "Götessons Design Group",
+      "priority": 250,
+      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65e84c0e4794dbf0b14c6ff7_GDG_1920x1080%20Large.jpeg",
+      "website": "https://gotessonsdesigngroup.com//",
+      "description": "Götessons Design Group encompasses brands whose success is based on understanding people’s needs before they do. They create furniture, environments and products that combine beauty, good ergonomics and sustainability. For you to thrive and grow. In both public and private settings. Today and tomorrow. Through the Group’s brands Götessons, AM Acoustics, David design, Gsign, Scan Sørlie and Norco Interior Group, they offer ergonomic, functional and well-designed solutions in furniture and interior design. The combined expertise of the brands is the basis of the efforts to help people and companies grow sustainably – socially, environmentally and financially."
     }
   ]
 }
