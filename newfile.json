@@ -393,15 +393,13 @@
       "description": "Artemide is one of the most known illumination brands in the world. Known for its The Human Light philosophy, Artemide boasts high skills in light design and innovation, with products originating from research and high-quality manufacturing."
     },
     {
-      "id": "39",
-      "name": "De La Espada",
-      "priority": 39,
-      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65ccb25fb5e0ac9af91b107b_hero-p-1600.jpg",
-      "website": "https://delaespada.com/",
-      "facebook": "https://www.facebook.com/DeLaEspadaFurniture",
-      "instagram": "https://www.instagram.com/delaespada",
-      "Pinterest": "https://www.pinterest.co.uk/delaespada/",
-      "description": "De La Espada furniture is where leading design meets the highest level of European craftsmanship. At the De La Espada atelier in Portugal, expert craftspeople specialising in solid wood and upholstery combine handcraft and advanced technology to create truly unique, meaningful objects, meticulously detailed and engineered to last a lifetime. In addition to designing in-house, De La Espada also works closely with carefully selected international design partners. The product range reflects the diversity of the collaborators as well as a shared approach to materiality, functionality, and craft."
+      "id": "255",
+      "name": "Man of Parts",
+      "priority": 255,
+      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65cf6d2c927f69c23747dcc6_hero.jpg",
+      "website": "https://manofparts.com/",
+      "instagram": "https://www.instagram.com/manofparts/",
+      "description": "Born of a cross cultural, post-national design sensibility, MAN OF PARTS was created for global nomads who appreciate craft but prefer a modern experience."
     },
     {
       "id": "40",
@@ -763,15 +761,15 @@
       "description": "Since 1837, Bernstorffsminde has been responsible for the production of quality furniture and has built a solid heritage and commitment to creating furniture that is not only beautiful, but also built to last. The company's own furniture collections BM1837 pay tribute to the timeless elegance of Danish design, which is always sought after and appreciated. Bernstorffsminde unites tradition, innovation and passion for creating furniture that is unique and beautiful in its design. Their latest collection, BM1837, is a testament to their commitment to providing quality furniture that stands the test of time and creates an atmosphere of timeless elegance."
     },
     {
-      "id": "75",
-      "name": "Bernstorffsminde",
-      "priority": 75,
-      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65d5f7476eb04570a25e74c1_hero-p-1600.jpeg",
-      "website": "https://www.bernstorffsminde.dk/",
-      "instagram": "https://www.instagram.com/bernstorffsminde_mobelfabrik/",
-      "facebook": "https://www.facebook.com/bernstorffsmindemobelfabrik/",
-      "Pinterest": "https://www.dropbox.com/sh/jyh5u5r1hdzk3gz/AAAPUwPaNtkM0XuXX4JtOtdma?dl=0",
-      "description": "Since 1837, Bernstorffsminde has been responsible for the production of quality furniture and has built a solid heritage and commitment to creating furniture that is not only beautiful, but also built to last. The company's own furniture collections BM1837 pay tribute to the timeless elegance of Danish design, which is always sought after and appreciated. Bernstorffsminde unites tradition, innovation and passion for creating furniture that is unique and beautiful in its design. Their latest collection, BM1837, is a testament to their commitment to providing quality furniture that stands the test of time and creates an atmosphere of timeless elegance."
+      "id": "257",
+      "name": "Mattiazzi",
+      "priority": 257,
+      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65d3418df330df48c81f48c1_hero-p-1600.jpeg",
+      "website": "https://www.mattiazzi.eu/",
+      "instagram": "https://www.instagram.com/mattiazzisrl",
+      "facebook": "https://www.facebook.com/mattiazzisrl",
+      "Pinterest": "https://www.pinterest.it/mattiazzisrl",
+      "description": "In the past 12 years, Mattiazzi has emerged as a celebrated premium brand with an uncompromising design ethos, collaborating with the global design elite including: Ronan & Erwan Bouroullec, Nitzan Cohen, Konstantin Grcic, Sam Hecht & Kim Colin, Jasper Morrison, Leon Ransmeier and more. These designers approach wood production both philosophically and practically. Each collection represents strong ideas rooted in the passion of the Mattiazzi family and of their exceptional team – always optimistically embracing new technical challenges while keeping a keen eye on sustainability. By combining handmade craft and digital innovation in woodworking, Mattiazzi makes long-lasting, cherished pieces."
     },
     {
       "id": "76",
@@ -996,13 +994,15 @@
       "description": "Abstracta have been working to create better soundscapes since 1972 – which makes them acoustics pioneers. Today, the brand offers a wide variety of solutions for different types of environments and requirements – from thoughtfully designed sound-absorbent screens and surfaces to innovative furniture with integrated acoustic characteristics. And in close collaboration with some of the world’s most influential contemporary designers, Abstracta is constantly exploring new ways to create better soundscapes. Abstracta manufacture the products in Småland, Sweden, and the customers are located throughout the world. Abstracta is part of Lammhults Design Group."
     },
     {
-      "id": "97",
-      "name": "Ukurant",
-      "priority": 97,
-      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65e09062e49b946299e0bf97_hero-p-1600.jpeg",
-      "website": "https://ukurant.com/",
-      "instagram": "https://www.instagram.com/ukurant_/",
-      "description": "Ukurant celebrates experimental approaches to craft, material and tradition, offering young designers a platform and spotlight to present their work and push the boundaries of the established design scene. Whether it is in unconventional ways or in tribute to past generations, Ukurant presents new perspectives in the world of design and showcases prospective design by emerging talents."
+      "id": "256",
+      "name": "FDB Møbler",
+      "priority": 256,
+      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65ccccc83fb18818f2895524_hero-p-1600.jpeg",
+      "website": "https://www.fdbmobler.dk/",
+      "instagram": "https://www.instagram.com/fdbmobler/",
+      "facebook": "https://facebook.com/fdbmobler",
+      "Pinterest": "https://www.pinterest.dk/fdbmobler/",
+      "description": "Furniture ought to make room for people. That has been the philosophy since 1942, when FDB Møbler was founded, with architect Børge Mogensen heading up the studio. Many new designers have since entered the fold, but the foundational principles remain the same: To create beautiful, functional and exceptionally crafted furniture that makes room for everyday living at home. FDB Møbler is internationally known as a frontrunner of Danish design. It’s a story of classic pieces to be passed down from generation to generation. Regardless of whether they are talking about iconic pieces or new, innovative designs, the goal is the same: To have the veritable quality of life that was envisioned when the first pieces of furniture emerged in 1942."
     },
     {
       "id": "98",
@@ -2576,7 +2576,7 @@
       "name": "SAVO",
       "priority": 247,
       "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65e83361b1d30b6d7e8a827a_SAVO_360_studio_HERO_all_chairs_LR-p-1600.jpg",
-      "website": "hhttps://www.savo.com/",
+      "website": "https://www.savo.com/",
       "instagram": "https://www.instagram.com/savoofficeseating/",
       "facebook": "https://www.facebook.com/Savo.Office.Seating",
       "Pinterest": "https://www.pinterest.se/savoofficeseating/",
@@ -2606,6 +2606,108 @@
       "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65e84c0e4794dbf0b14c6ff7_GDG_1920x1080%20Large.jpeg",
       "website": "https://gotessonsdesigngroup.com//",
       "description": "Götessons Design Group encompasses brands whose success is based on understanding people’s needs before they do. They create furniture, environments and products that combine beauty, good ergonomics and sustainability. For you to thrive and grow. In both public and private settings. Today and tomorrow. Through the Group’s brands Götessons, AM Acoustics, David design, Gsign, Scan Sørlie and Norco Interior Group, they offer ergonomic, functional and well-designed solutions in furniture and interior design. The combined expertise of the brands is the basis of the efforts to help people and companies grow sustainably – socially, environmentally and financially."
+    },
+    {
+      "id": "251",
+      "name": "JAPAN FORM",
+      "priority": 251,
+      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65e6f83f6b91dbe6b1f5a08f_unnamed-p-1600.jpg",
+      "website": "https://www.japan-form.com/",
+      "instagram": "https://www.instagram.com/japan_form/",
+      "description": "Bringing you function with quiet elegance. Led by Hironori Tsukue, JAPAN FORM embodies a blend of understated elegance and functionality. A native of Japan with a background in interior and furniture design and experience in Sweden, Tsukue curates modern essentials that incorporate Japanese aesthetics and craftsmanship. His 30 years of living in Sweden has given him a unique perspective and revealed parallels between Japan and Scandinavia. Both cultures value everyday objects, prioritise comfort and beauty, and value sustainable craftsmanship. Offering timeless designs for different lifestyles, Tsukue's mission is to showcase Japan's creative prowess globally."
+    },
+    {
+      "id": "252",
+      "name": "H. Skjalm P.",
+      "priority": 252,
+      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65e739d56e1d2b3d6d5f6330_H_%20Skjalm%20P.%20Bedroom%20GOTS%20certified%20bedlinen%201920x1080-p-1600.jpg",
+      "website": "https://www.hskjalmp.dk/",
+      "instagram": "https://www.instagram.com/hskjalmp/",
+      "facebook": "https://www.facebook.com/hskjalmp",
+      "description": "A Danish design brand, and concept store founded in 1953 in the heart of Copenhagen by Hagbarth Skjalm Petersen and his spouse Lisbeth Westergaard. A center for home interior and lifestyle items designed to inspire to an aesthetic and more sustainable lifestyle. The original design philosophy of H. Skjalm P. is still focusing on sustainable production and natural materials, notably the organic GOTS certified textiles. The H. Skjalm P. collection includes a wide range of design in brass, in stainless steel, ceramics and glass, as well as textiles in 100% GOTS certified organic cotton. Explore lamps, hooks and knobs, vases, tea towels, bedlinen and much more."
+    },
+    {
+      "id": "253",
+      "name": "Målbar",
+      "priority": 253,
+      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65dcc9914389428e7a3fa47b_hero-p-1600.jpeg",
+      "website": "https://www.maalbar.dk/",
+      "instagram": "https://www.instagram.com/maalbar.dk/",
+      "description": "Målbar has created a highly advanced and user friendly digital tool that can measure the climate impact of products. It screens products based on input data from users and average data from acknowledged data bases, making it doable to obtain useful results without making the traditional LCA. Målbar has made it achievable for every company to measure the CO2eq footprint of products and use the results as a point of departure for making more responsible design and production choices; the tool contains data about the impact of materials, production methods, packaging, transport, waste, etc."
+    },
+    {
+      "id": "254",
+      "name": "Anour",
+      "priority": 254,
+      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65cc8fcae2e7afd6f094e966_ANOUR-Craft%26Design-Gallery-p-1600.jpg",
+      "website": "https://www.anour.dk/",
+      "instagram": "https://www.instagram.com/anourcph",
+      "facebook": "https://www.facebook.com/Anour.dk",
+      "Pinterest": "https://www.pinterest.dk/anourcph",
+      "description": "ANOUR is a handcrafted contemporary lighting design studio inspired by tradition, driven by creativity, obsession for details and impeccable craftsmanship, made to stand the test of time. Lamps by ANOUR combine natural materials with the best LED technology in a unique way that allows for an eternal lifespan. Value of simplicity is born out of the idea of creating something that contributes more than it consumes. Developed consciously in Denmark. Enjoyed by generations – a craft that speaks to connoisseurs."
+    },
+    {
+      "id": "255",
+      "name": "Wehlers",
+      "priority": 255,
+      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65e8801b1609009cf09454e5_Wehlers_231108_JS1433_WEB-p-1600.jpg",
+      "website": "https://www.wehlers.com/",
+      "instagram": "https://www.instagram.com/wehlersdesign/",
+      "facebook": "https://www.facebook.com/wehlersdesign",
+      "Pinterest": "https://www.pinterest.dk/furnitureforgood/",
+      "description": "Wehlers is a furniture design brand with a circular agenda, utilising responsibly sourced waste materials and FSC certified wood in high-quality products designed by renowned architects. The company believes in creating positive changes within the furniture design industry, driven by a deep sense of responsibility towards future generations. Their mission is to create design with meaning and lead the way in sustainable and transparent business practices, demonstrating that meaningful impact can be achieved through the choices made. The circular concept 'Furniture for Good' is based on three principles, driven by design: eliminating waste and climate impacting footprints, circulating products and materials, and regenerating nature."
+    },
+    {
+      "id": "256",
+      "name": "novoform",
+      "priority": 256,
+      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65e8550bb78c29c958f82b50_elephant_group-p-1600.jpg",
+      "website": "https://www.novoform.com/",
+      "instagram": "https://www.instagram.com/novoform",
+      "facebook": "https://facebook.com/novoformdesign",
+      "Pinterest": "https://www.pinterest.com/novoform",
+      "description": "At novoform, the company's deep passion for design fuels meticulous attention to every detail, ensuring a seamless blend of aesthetics, functionality, and craftsmanship. Rooted in Danish design traditions, novoform draws inspiration from a rich heritage, embracing the responsibility to propel its legacy forward with a commitment to daily excellence. Prioritizing natural materials and soft hues, novoform crafts simple yet extraordinary collections inspired by everyday life, remarkable individuals, and the beauty of nature. The company's focus is on creating enduring products that stand the test of time and focus on sustainability. In essence, novoform affectionately terms these creations Danish Design Originals."
+    },
+    {
+      "id": "257",
+      "name": "Paper Paste Living",
+      "priority": 257,
+      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65e992aff0f4b62641c1195b_cosmolampandposterprototype-p-1600.jpg",
+      "website": "https://www.paperpasteliving.com/",
+      "instagram": "https://www.instagram.com/paperpasteliving/",
+      "facebook": "https://facebook.com/novoformdesign",
+      "Pinterest": "https://www.pinterest.com/paperpasteliving/",
+      "description": "The philosophy of Paper Paste Living is to create beautiful and functional home items in circular materials. The core material is a mixture of compressed recycled paper and water without any binders. The paper paste part of the objects are handcrafted in Spain, while all the wood and cardboard are sourced in the Czech Republic. With the Shape of Nature in mind, the products are carefully designed in Denmark by Hans Thyge & Co. The paper used arrived from a KM0 recovery plant near the over 100-year-old production facility just outside of Barcelona. Other materials besides paper are also used, like FSC-certified. For the pouf seat, Italian regenerated cotton in Ivory was used, and it gets its softness from the coconut fibres inside."
+    },
+    {
+      "id": "258",
+      "name": "Ethimo",
+      "priority": 258,
+      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65e850675a12edcbf2d80de1_Rotin_1920x1080-p-1600.jpeg",
+      "website": "https://www.ethimo.com/",
+      "instagram": "https://www.instagram.com/ethimo/",
+      "facebook": "https://www.facebook.com/Ethimo",
+      "Pinterest": "https://pin.it/59hiPH15f",
+      "description": "Ethimo is an Italian company founded in 2009 that specialized in high-end outdoor furnishings that express contemporary design in a balanced synthesis of form and function. Study of materials and shapes of elements speak of the tailoring of a knowhow consolidated over time and of all-Italian style. A fusion of art, nature, tradition, contemporaneity and design that finds its identity and balance in every project bringing alive an idea of outdoor living made up of harmony with nature and respect for the environment. Ethimo projects stress the importance of protecting and preserving the natural environment and awareness of the physical and mental well-being generated by contact with nature."
+    },
+    {
+      "id": "259",
+      "name": "Maharam",
+      "priority": 259,
+      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/6405cf77c0c9cf2ac81dcfb1_63ee3b61f73d528ee37b217d_Maharam_3-Days-Design_04%25201-p-1600.jpeg",
+      "website": "https://www.maharam.com/",
+      "instagram": "https://www.instagram.com/maharamstudio/",
+      "description": "Founded in 1902 in New York, Maharam is a leading creator of textiles for commercial and residential interiors. Recognized for its rigorous and holistic commitment to design, Maharam embraces a range of disciplines from product, graphic, and digital design to art and architecture."
+    },
+    {
+      "id": "260",
+      "name": "Nevotex Danmark",
+      "priority": 260,
+      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65e98bb6fa8b77382b306d3c_LibertyIMagine-p-1600.jpg",
+      "website": "https://www.nevotex.dk/",
+      "instagram": "https://www.instagram.com/nevotex/",
+      "facebook": "https://www.facebook.com/NevotexDK",
+      "description": "Nevotex is Europe’s leading supplier of fabrics, leather, technical materials and tools for the interior design and furniture industry. They possess experience, expert knowledge, and are hugely passionate about design, color, and texture. They assist upholsterers, furniture manufacturers, architects, and designers in bringing their ideas to life. Nevotex embraces sustainable practices, offering a wide range of eco-friendly fabrics, artificial leather, and genuine leather without compromising on quality or style. They firmly believe that furniture production can coexist with environmental responsibility, and their sustainable product range reflects this philosophy."
     }
   ]
 }
