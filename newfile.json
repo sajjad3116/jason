@@ -399,8 +399,9 @@
       "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65cf6d2c927f69c23747dcc6_hero.jpg",
       "website": "https://manofparts.com/",
       "instagram": "https://www.instagram.com/manofparts/",
+     
       "description": "Born of a cross cultural, post-national design sensibility, MAN OF PARTS was created for global nomads who appreciate craft but prefer a modern experience."
-    },
+     },
     {
       "id": "40",
       "name": "Jacob Jensen",
@@ -770,7 +771,8 @@
       "facebook": "https://www.facebook.com/mattiazzisrl",
       "Pinterest": "https://www.pinterest.it/mattiazzisrl",
       "description": "In the past 12 years, Mattiazzi has emerged as a celebrated premium brand with an uncompromising design ethos, collaborating with the global design elite including: Ronan & Erwan Bouroullec, Nitzan Cohen, Konstantin Grcic, Sam Hecht & Kim Colin, Jasper Morrison, Leon Ransmeier and more. These designers approach wood production both philosophically and practically. Each collection represents strong ideas rooted in the passion of the Mattiazzi family and of their exceptional team – always optimistically embracing new technical challenges while keeping a keen eye on sustainability. By combining handmade craft and digital innovation in woodworking, Mattiazzi makes long-lasting, cherished pieces."
-    },
+     },
+    
     {
       "id": "76",
       "name": "by Adelborg",
@@ -1003,7 +1005,7 @@
       "facebook": "https://facebook.com/fdbmobler",
       "Pinterest": "https://www.pinterest.dk/fdbmobler/",
       "description": "Furniture ought to make room for people. That has been the philosophy since 1942, when FDB Møbler was founded, with architect Børge Mogensen heading up the studio. Many new designers have since entered the fold, but the foundational principles remain the same: To create beautiful, functional and exceptionally crafted furniture that makes room for everyday living at home. FDB Møbler is internationally known as a frontrunner of Danish design. It’s a story of classic pieces to be passed down from generation to generation. Regardless of whether they are talking about iconic pieces or new, innovative designs, the goal is the same: To have the veritable quality of life that was envisioned when the first pieces of furniture emerged in 1942."
-    },
+     },
     {
       "id": "98",
       "name": "Martela",
@@ -2614,6 +2616,7 @@
       "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65e6f83f6b91dbe6b1f5a08f_unnamed-p-1600.jpg",
       "website": "https://www.japan-form.com/",
       "instagram": "https://www.instagram.com/japan_form/",
+      
       "description": "Bringing you function with quiet elegance. Led by Hironori Tsukue, JAPAN FORM embodies a blend of understated elegance and functionality. A native of Japan with a background in interior and furniture design and experience in Sweden, Tsukue curates modern essentials that incorporate Japanese aesthetics and craftsmanship. His 30 years of living in Sweden has given him a unique perspective and revealed parallels between Japan and Scandinavia. Both cultures value everyday objects, prioritise comfort and beauty, and value sustainable craftsmanship. Offering timeless designs for different lifestyles, Tsukue's mission is to showcase Japan's creative prowess globally."
     },
     {
@@ -2624,6 +2627,7 @@
       "website": "https://www.hskjalmp.dk/",
       "instagram": "https://www.instagram.com/hskjalmp/",
       "facebook": "https://www.facebook.com/hskjalmp",
+      
       "description": "A Danish design brand, and concept store founded in 1953 in the heart of Copenhagen by Hagbarth Skjalm Petersen and his spouse Lisbeth Westergaard. A center for home interior and lifestyle items designed to inspire to an aesthetic and more sustainable lifestyle. The original design philosophy of H. Skjalm P. is still focusing on sustainable production and natural materials, notably the organic GOTS certified textiles. The H. Skjalm P. collection includes a wide range of design in brass, in stainless steel, ceramics and glass, as well as textiles in 100% GOTS certified organic cotton. Explore lamps, hooks and knobs, vases, tea towels, bedlinen and much more."
     },
     {
@@ -2633,6 +2637,7 @@
       "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65dcc9914389428e7a3fa47b_hero-p-1600.jpeg",
       "website": "https://www.maalbar.dk/",
       "instagram": "https://www.instagram.com/maalbar.dk/",
+      
       "description": "Målbar has created a highly advanced and user friendly digital tool that can measure the climate impact of products. It screens products based on input data from users and average data from acknowledged data bases, making it doable to obtain useful results without making the traditional LCA. Målbar has made it achievable for every company to measure the CO2eq footprint of products and use the results as a point of departure for making more responsible design and production choices; the tool contains data about the impact of materials, production methods, packaging, transport, waste, etc."
     },
     {
@@ -2656,8 +2661,8 @@
       "facebook": "https://www.facebook.com/wehlersdesign",
       "Pinterest": "https://www.pinterest.dk/furnitureforgood/",
       "description": "Wehlers is a furniture design brand with a circular agenda, utilising responsibly sourced waste materials and FSC certified wood in high-quality products designed by renowned architects. The company believes in creating positive changes within the furniture design industry, driven by a deep sense of responsibility towards future generations. Their mission is to create design with meaning and lead the way in sustainable and transparent business practices, demonstrating that meaningful impact can be achieved through the choices made. The circular concept 'Furniture for Good' is based on three principles, driven by design: eliminating waste and climate impacting footprints, circulating products and materials, and regenerating nature."
-    },
-    {
+     },
+     {
       "id": "256",
       "name": "novoform",
       "priority": 256,
@@ -2678,8 +2683,8 @@
       "facebook": "https://facebook.com/novoformdesign",
       "Pinterest": "https://www.pinterest.com/paperpasteliving/",
       "description": "The philosophy of Paper Paste Living is to create beautiful and functional home items in circular materials. The core material is a mixture of compressed recycled paper and water without any binders. The paper paste part of the objects are handcrafted in Spain, while all the wood and cardboard are sourced in the Czech Republic. With the Shape of Nature in mind, the products are carefully designed in Denmark by Hans Thyge & Co. The paper used arrived from a KM0 recovery plant near the over 100-year-old production facility just outside of Barcelona. Other materials besides paper are also used, like FSC-certified. For the pouf seat, Italian regenerated cotton in Ivory was used, and it gets its softness from the coconut fibres inside."
-    },
-    {
+     },
+     {
       "id": "258",
       "name": "Ethimo",
       "priority": 258,
@@ -2689,25 +2694,95 @@
       "facebook": "https://www.facebook.com/Ethimo",
       "Pinterest": "https://pin.it/59hiPH15f",
       "description": "Ethimo is an Italian company founded in 2009 that specialized in high-end outdoor furnishings that express contemporary design in a balanced synthesis of form and function. Study of materials and shapes of elements speak of the tailoring of a knowhow consolidated over time and of all-Italian style. A fusion of art, nature, tradition, contemporaneity and design that finds its identity and balance in every project bringing alive an idea of outdoor living made up of harmony with nature and respect for the environment. Ethimo projects stress the importance of protecting and preserving the natural environment and awareness of the physical and mental well-being generated by contact with nature."
-    },
-    {
+     },
+     {
       "id": "259",
       "name": "Maharam",
       "priority": 259,
       "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/6405cf77c0c9cf2ac81dcfb1_63ee3b61f73d528ee37b217d_Maharam_3-Days-Design_04%25201-p-1600.jpeg",
       "website": "https://www.maharam.com/",
       "instagram": "https://www.instagram.com/maharamstudio/",
+     
       "description": "Founded in 1902 in New York, Maharam is a leading creator of textiles for commercial and residential interiors. Recognized for its rigorous and holistic commitment to design, Maharam embraces a range of disciplines from product, graphic, and digital design to art and architecture."
-    },
-    {
-      "id": "260",
-      "name": "Nevotex Danmark",
-      "priority": 260,
-      "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65e98bb6fa8b77382b306d3c_LibertyIMagine-p-1600.jpg",
-      "website": "https://www.nevotex.dk/",
-      "instagram": "https://www.instagram.com/nevotex/",
-      "facebook": "https://www.facebook.com/NevotexDK",
-      "description": "Nevotex is Europe’s leading supplier of fabrics, leather, technical materials and tools for the interior design and furniture industry. They possess experience, expert knowledge, and are hugely passionate about design, color, and texture. They assist upholsterers, furniture manufacturers, architects, and designers in bringing their ideas to life. Nevotex embraces sustainable practices, offering a wide range of eco-friendly fabrics, artificial leather, and genuine leather without compromising on quality or style. They firmly believe that furniture production can coexist with environmental responsibility, and their sustainable product range reflects this philosophy."
-    }
+      },
+    
+       {
+        "id": "260",
+        "name": "Nevotex Danmark",
+        "priority": 260,
+        "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65e98bb6fa8b77382b306d3c_LibertyIMagine-p-1600.jpg",
+        "website": "https://www.nevotex.dk/",
+        "instagram": "https://www.instagram.com/nevotex/",
+        "facebook": "https://www.facebook.com/NevotexDK",
+       
+        "description": "Nevotex is Europe’s leading supplier of fabrics, leather, technical materials and tools for the interior design and furniture industry. They possess experience, expert knowledge, and are hugely passionate about design, color, and texture. They assist upholsterers, furniture manufacturers, architects, and designers in bringing their ideas to life. Nevotex embraces sustainable practices, offering a wide range of eco-friendly fabrics, artificial leather, and genuine leather without compromising on quality or style. They firmly believe that furniture production can coexist with environmental responsibility, and their sustainable product range reflects this philosophy."
+         },
+         {
+          "id": "261",
+          "name": "MAKE nordic",
+          "priority": 261,
+          "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65e98679f2b79035692fa1ad_J111chairHolmentableTammibench-p-1600.jpg",
+          "website": "https://makenordic.com/",
+          "instagram": "https://www.instagram.com/makenordic/?hl=da",
+          "facebook": "https://da-dk.facebook.com/makenordic/",
+          "Pinterest": "https://www.pinterest.dk/makenordic/make-nordic-showroom/",
+          "description": "Founded with a profound purpose, MAKE nordic is a furniture brand dedicated to creating responsible design handmade in the EU. Driven by a passion for architect-designed furniture, MAKE nordic remains unwavering in its commitment to a greener future. Emerging as a relatively new player in the furniture market, MAKE nordic has quickly made its imprint with its original principles and business model. Since 2017, MAKE nordic, under the leadership of founder Line Olesen, has been producing durable, high-quality and certificed furniture inspired by Nordic design trends, as the name suggests. The collection is exclusively available at MAKE’s own online store and showrooms."
+        },
+        {
+          "id": "262",
+          "name": "FID paris",
+          "priority": 262,
+          "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65e9a7ea4d4cb75276b07e51_005-KV_CRYSTAL_V01-p-1600.jpeg",
+          "website": "https://www.fid-paris.com/",
+          "instagram": "https://www.instagram.com/fidparis/",
+          "facebook": "https://www.facebook.com/fidparis",
+          "Pinterest": "https://www.pinterest.fr/fidparis/",
+          "description": "FID is a French-based, unconventional, and visionary furniture brand founded with a bold step towards combinable furniture design. The collection comprises architectural furniture pieces that transform the concept of furniture into a playground for expressing your individuality. It empowers you to combine, reorganize, and reimagine your space. Adaptability, functionality, versatility, and sustainability are the assets at the core of the brand."
+         },
+         {
+          "id": "263",
+          "name": "Oxdenmarq",
+          "priority": 263,
+          "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65e87cced6b5fd79974ed896_Ramachair-p-1600.jpg",
+          "website": "https://www.oxdenmarq.com/",
+          "instagram": "https://www.instagram.com/oxdenmarq",
+          "facebook": "https://www.facebook.com/OXdenmarq",
+          "Pinterest": "https://www.pinterest.dk/Oxdenmarq/",
+          "description": "Oxdenmarq was founded in 2003. The goal was to produce reasonably priced furniture from exclusive materials like vegetable tanned saddle leather. Making affordable furniture is a core value OX still pursue in everything they do. Before finishing the design studies at the Copenhagen Design University, Dennis Marquart completed a Blacksmith education. Craftsmanship is a key for OX in everything they do. Many OX products are shaped around marble or vegetable tanned saddle leather. Stone and leather are materials that will and should get marks over time but they will also age with a very special beauty. When you learn to appreciate the beauty of maturity and of time passing, you have learned to appreciate patina the way it should be: appreciated."
+         },
+         {
+          "id": "264",
+          "name": "SOFTLINE",
+          "priority": 264,
+          "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65e98ddff145ec35de3b180f_basel-vidar-4-col-323-sand-ecru-kvadrat-p-1600.jpg",
+          "website": "https://softlinefurniture.com/en/",
+          "instagram": "https://www.instagram.com/softlinefurniture/",
+          "facebook": "https://www.facebook.com/softlinefurniture",
+          "Pinterest": "https://www.pinterest.dk/softlinefurniture",
+          "description": "OSOFTLINE is a leading Danish furniture manufacturer with a proud history in craftsmanship and upholstery. Since 1979, they have specialised in designing, developing, and producing innovative, functional, high-quality furniture. Together with esteemed designers, SOFTLINE strive to bring joy and excellent comfort to public spaces and private homes all over the world. SOFTLINE is a privately owned company rooted in the Scandinavian design tradition, and all their upholstered products are carefully manufactured at the SOFTLINE factory in Denmark."
+         },
+         {
+          "id": "265",
+          "name": "NUAD",
+          "priority": 265,
+          "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65e981136fc5cc215d5f5cfa_AvraFloorandPortable-p-1600.jpeg",
+          "website": "https://nuad.dk/",
+          "instagram": "https://www.instagram.com/nuaddesign/",
+          "facebook": "https://www.facebook.com/nuaddesign",
+          "Pinterest": "https://www.pinterest.dk/nuaddesign/",
+          "description": "Oxdenmarq was founded in 2003. The goal was to produce reasonably priced furniture from exclusive materials like vegetable tanned saddle leather. Making affordable furniture is a core value OX still pursue in everything they do. Before finishing the design studies at the Copenhagen Design University, Dennis Marquart completed a Blacksmith education. Craftsmanship is a key for OX in everything they do. Many OX products are shaped around marble or vegetable tanned saddle leather. Stone and leather are materials that will and should get marks over time but they will also age with a very special beauty. When you learn to appreciate the beauty of maturity and of time passing, you have learned to appreciate patina the way it should be: appreciated."
+         },
+         {
+          "id": "266",
+          "name": "Manu",
+          "priority": 266,
+          "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65e98ff0c438a316703922a1_1920x1080-Manu-1-p-1600.jpg",
+          "website": "https://manumatters.com/",
+          "instagram": "https://www.instagram.com/manu.matters/",
+          "facebook": "https://www.tiktok.com/@manu.matters",
+          "Pinterest": "https://www.pinterest.se/manumatters/",
+          "description": "At Manu, every product has a soul, a vibe, and a personality. The philosophy guiding Manu is that by developing emotional relationships with objects, one will start treating them with the respect, care, and longevity the world needs. That's why Manu's products are not bought or sold - they're adopted. Manu’s first collection explores how waste materials from lemon peels, PET bottles, and cornstarch can be given new life. Through the technology of 3D-printing, one-time-use materials are turned into a lifelong product and companion through a process that flips the unwanted into the wanted."
+        }
+ 
   ]
 }
