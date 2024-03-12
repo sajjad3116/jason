@@ -2922,7 +2922,50 @@
                   
                   "Pinterest": "https://www.pinterest.es/viccarbe/",
                   "description": "Viccarbe is an international reference in the manufacture of collaborative furniture for contract, hospitality, educational, healthcare, and residential environments. The company is based in Valencia, Spain, a city that enjoys over 300 days of sunshine per year. This light is part of their Mediterranean identity and is the starting point of their kind designs, made in collaboration with leading international designers such as Patricia Urquiola, John Pawson, Jasper Morrison, Naoto Fukasawa, Jaime Hayon or Piero Lissoni."
-                  }
+                  },
+                  {
+                    "id": "280",
+                    "name": "Grythyttan Stålmöbler",
+                    "priority": 280,
+                    "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65eae4d4dd9be6895156db9e_2024Grythyttan-Libelle-stol-bord70-gra-1-24-p-1600.jpg",
+                    "website": "https://www.grythyttan.net/",
+                    "instagram": "https://www.instagram.com/grythyttanstalmobler/",
+                    "facebook": "https://www.facebook.com/Grythyttan.Stalmobler",
+                    "Pinterest": "https://www.pinterest.se/GrythyttanStalm",
+                    "description": "Grythyttan Stålmöbler recounts a narrative spanning generations, deeply rooted in Sweden’s industrial legacy and ever-evolving. With origins dating back 128 years when it commenced as a horseshoe manufacturer, the company has transformed into a producer of outdoor furniture today, prioritising environmental sustainability across its supply chain. Situated in Bergslagen, their factory crafts chairs, tables, and sofas built to withstand time's passage, embodying a commitment to longevity that enhances societal resource utilisation and living standards. Designed to evoke beauty, serenity, and liberation, Grythyttan Stålmöbler's furniture enriches any environment it graces, be it a park, pavement, backyard, or personal garden."
+                      },
+                      {
+                        "id": "281",
+                        "name": "Frandsen",
+                        "priority": 281,
+                        "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65ead7dc426f242e75c96fed_Sora_6.jpg",
+                        "website": "https://www.frandsen.com/",
+                        "instagram": "https://www.instagram.com/frandsencom/",
+                        "facebook": "https://www.facebook.com/frandsencom",
+                        "Pinterest": "https://www.pinterest.dk/frandsencom/_created/",
+                        "description": "Frandsen crafts decorative and timeless lighting designs that evokes curiosity and adds personality into every space. These inspirational designs illuminate lives across the globe. Rooted in a strong design heritage, Frandsen embodies a passion for organic, simple, and graphic lighting solutions. The products are honest and built to last, considering sustainability as a fundamental aspect of Frandsen’s ethos. Frandsen’s style is international with a Nordic touch, creating an overall ambiance that is joyful and effortlessly positive."
+                       },
+                          {
+                            "id": "282",
+                            "name": "Bent Hansen",
+                            "priority": 282,
+                            "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65eb1e87dd46518810632227_Web_BentHansen(5)-p-1600.jpg",
+                            "website": "https://www.benthansen.net/",
+                            "instagram": "https://www.instagram.com/benthansendesign/",
+                            "facebook": "https://www.facebook.com/benthansendesign/",
+                            "Pinterest": "https://www.pinterest.dk/benthansendk/",
+                            "description": "Bent Hansen delivers honest design with a passion for solid craftsmanship, high-quality materials, and unique comfort. Bent Hansen's knowledge in upholstery is gathered since 1948 and combined with a curious approach to furniture design. At Bent Hansen materials matter. The right material invites you to feel the fabric or caress the leather. The right material wraps itself beautifully around the furniture; it shapes the design, and it adds comfort. With more than 75 years of experience, Bent Hansen humbly dares to call themselves experts in dressing furniture to its full potential. Through three generations, Bent Hansen has evolved into a contemporary design brand with a growing collection of furniture fit for both retail and contract."
+                           },
+                              {
+                                "id": "283",
+                                "name": "M2Rugs",
+                                "priority": 283,
+                                "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65eadab8414c95408616cf7c_M2Rugs5048-p-1600.jpg",
+                                "website": "https://www.m2rugs.com/",
+                                "instagram": "https://www.instagram.com/m2rugs/",
+                                
+                                "description": "M2Rugs is an award winning brand for contemporary hand knotted rugs based in Hamburg. M2R was founded in the beginning of 2021 by Marcel Müller. After working in leadership positions in some of the best international brands, he wanted to break new ground and realise his own ideas. The six M2R collections are the result of his passion for traditional craftsmanship, uncompromisingly high-quality materials, extraordinary, space-defining colour world and the creation of modern, sustainable designs. M2R shares a passion for modern design with Sebastian Herkner who developed three collections for the brand. Working together has resulted to collections which impress with its intuitive lines, different colour worlds and complex materiality."
+                               }
  
  
   ]
