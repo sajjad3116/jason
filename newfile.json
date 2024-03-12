@@ -2782,7 +2782,148 @@
           "facebook": "https://www.tiktok.com/@manu.matters",
           "Pinterest": "https://www.pinterest.se/manumatters/",
           "description": "At Manu, every product has a soul, a vibe, and a personality. The philosophy guiding Manu is that by developing emotional relationships with objects, one will start treating them with the respect, care, and longevity the world needs. That's why Manu's products are not bought or sold - they're adopted. Manu’s first collection explores how waste materials from lemon peels, PET bottles, and cornstarch can be given new life. Through the technology of 3D-printing, one-time-use materials are turned into a lifelong product and companion through a process that flips the unwanted into the wanted."
-        }
+        },
+        {
+          "id": "267",
+          "name": "Fjordfiesta",
+          "priority": 267,
+          "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/6405cf765cbaa249c2b0f0f3_63eba0680a52370cd1b44ea8_Fjordfiesta_SverreFehn_17-p-1600.jpeg",
+          "website": "https://fjordfiesta.com/",
+          "instagram": "https://www.instagram.com/fjordfiestafurniture/",
+          "facebook": "https://www.facebook.com/fjordfiesta/",
+          "Pinterest": "https://no.pinterest.com/Fjordfiesta_furniture/",
+          "description": "Architect Pål Lunder founded Fjordfiesta in 2004, wishing to develop and reconnect with the Scandinavian design heritage. The Norwegian design brand is passionate about collaborating with new designers, and proud to renew classic gems from the Norwegian design vault. Committed to tackling our modern day’s ethical and environmental challenges, Fjordfiesta is hands-on in every part of the chain – from design and manufacture to delivery. The furniture is made at Fjordfiesta’s factory in Dokka, Norway, where high-quality craftsmanship and cutting-edge technology ensure objects that last a lifetime and beyond."
+         },
+        {
+          "id": "268",
+          "name": "Meridiani",
+          "priority": 268,
+          "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65eae19cc32b012e8f7dc0c9_04-1920x1080-p-1600.jpg",
+          "website": "https://meridiani.it/en",
+          "instagram": "https://www.instagram.com/meridiani.livinginteriors/",
+          "facebook": "https://www.facebook.com/MERIDIANI.LivingInteriors/",
+          "Pinterest": "https://www.pinterest.it/MERIDIANIsrl/",
+          "description": "Meridiani is a Made in Italy furniture company founded in Brianza in 1996, distinguished by its ability to create timeless, contemporary, and versatile collections that suggest the idea of home as a dress to wear. A high level of quality, craftsmanship culture, technical expertise, and deep material knowledge characterize the products, which can bring an intimate living experience to life. The brand's purpose is to inspire with ideas and refined suggestions, while also presenting a variety of combinations of shapes and finishes that allow for personal interpretation. Meridiani products are the result of a continuous search for materials and textures that ensures a balance between beauty, versatility, and comfort."
+         },
+        {
+          "id": "269",
+          "name": "Feast of Eden",
+          "priority": 269,
+          "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65eec252dede28c02c138ffc_hero-p-1600.jpg",
+          "website": "https://www.caialeifsdotter.com/",
+          
+          "description": "Caia Leifsdotter is a design studio specialising in crafting bespoke objects and custom interior designs. The design studio is founded by Caisa Leifsdotter, who specialises in design with a background in kitchen design. Her goal is to provide clients a holistic and integrated unique design experience. Atelier Madirazza, founded by Alexandra Madirazza, is a studio where the primarily focus is sculptures. The greatest interest is arts dialogue with the room and vice versa. In the borderland between art, architecture and design, Alexandra works with sculptures that relate to the surroundings or which causes the viewer to take a physical position in relation to it."
+         },
+        {
+          "id": "270",
+          "name": "Vaarnii",
+          "priority": 270,
+          "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65e6f68ca91fb24a2f84f7f3_hero-p-1600.jpg",
+          "website": "https://www.vaarnii.com/",
+          "instagram": "https://www.instagram.com/vaarnii/",
+          
+          "Pinterest": "https://fi.pinterest.com/vaarnii/",
+          "description": "AVaarnii is a furniture and lighting company with a uniquely Finnish perspective. They are instigating a new era in Finnish furniture making with their brutal and sophisticated designs made entirely from Finnish Scots Pine (Pinus Sylvestris), the country's most populous tree. All Vaarnii products are manufactured in Finland and made to last for generations to come."
+          },
+        {
+          "id": "271",
+          "name": "Dencon",
+          "priority": 271,
+          "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65eed7b1ef7cd2e2a0095c54_Dencon_2%20slide_desk_full_header-p-1600.jpg",
+          "website": "https://dencon.eu/",
+          "instagram": "https://www.instagram.com/dencon_office/",
+          "facebook": "https://www.facebook.com/denconoffice/",
+          "Pinterest": "https://www.pinterest.dk/Officebydencon/",
+          "description": "With over half a century of experience in the industry and deeply rooted in Danish traditions, Dencon was established in 1964 with a vision to shape workplaces through their extensive range of products. Every piece of furniture that leaves their production in Skive is a result of decades of experience and expertise. From classic elegance to innovative designs, Dencon strives to create furniture series that not only meet functional needs and promote collaboration and creativity but also demonstrate consideration for the environment. WE CREATE TEAMS is not just a slogan but a guiding principle for Dencon's work, where they dedicate themselves to creating a work environment where teams can thrive and team spirit is cultivated."
+         },
+         {
+          "id": "272",
+          "name": "BROKIS",
+          "priority": 272,
+          "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65ef001752de0091c6540353_hero-p-1600.jpg",
+          "website": "https://www.brokis.cz/",
+          "instagram": "https://www.instagram.com/brokislighting/",
+          "facebook": "https://www.facebook.com/brokislights",
+          "Pinterest": "https://cz.pinterest.com/brokislighting/",
+          "description": "The Czech premium lighting brand BROKIS stands for the synthesis of exquisite design, superior quality, and the craftsmanship of Bohemian glass artisans. Conceived by renowned Czech and foreign designers, the original BROKIS lighting collections have steadily earned international acclaim and recognition. The company combines handblown glass with other refined materials, such as wood and manually pressed metal, in bold lighting compositions that push the boundaries of contemporary design. The Brokis portfolio features functional lighting fixtures, decorative objects, and unique lighting solutions for architects and interior designers. Brokis is free to experiment and develop innovative materials, techniques, and sustainable technologies."
+         },
+         {
+          "id": "273",
+          "name": "ARCHITECTMADE",
+          "priority": 273,
+          "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65eec7eef033b9a01b2b82bd_Architectmade-Bird-Oak-Wood-Denmark-Kristian-Vedel-12-p-1600.jpg",
+          "website": "https://www.architectmade.com/",
+          "instagram": "https://www.instagram.com/architectmade/",
+          "facebook": "https://www.facebook.com/ARCHITECTMADE/",
+          "Pinterest": "https://www.pinterest.dk/architectmademkt/",
+          "description": "ARCHITECTMADE is more than a collection. It’s a philosophy. They search archives and drawings of the most acclaimed architects of all time, and discover talented architects to create timeless icons that can be passed on for generations. ARCHITECTMADE’s products are designed with the precision of an architect and the vision of an artist. Their passion extends beyond the realms of form and function, aiming to counteract the throwaway culture by celebrating products that are designed to last. With a rigorous three-stage quality control process and exceptional craftsmanship, ARCHITECTMADE ensures each item is built to endure the test of time."
+         },
+         {
+          "id": "274",
+          "name": "ARCHITECTMADE",
+          "priority": 274,
+          "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65eec7eef033b9a01b2b82bd_Architectmade-Bird-Oak-Wood-Denmark-Kristian-Vedel-12-p-1600.jpg",
+          "website": "https://www.architectmade.com/",
+          "instagram": "https://www.instagram.com/architectmade/",
+          "facebook": "https://www.facebook.com/ARCHITECTMADE/",
+          "Pinterest": "https://www.pinterest.dk/architectmademkt/",
+          "description": "ARCHITECTMADE is more than a collection. It’s a philosophy. They search archives and drawings of the most acclaimed architects of all time, and discover talented architects to create timeless icons that can be passed on for generations. ARCHITECTMADE’s products are designed with the precision of an architect and the vision of an artist. Their passion extends beyond the realms of form and function, aiming to counteract the throwaway culture by celebrating products that are designed to last. With a rigorous three-stage quality control process and exceptional craftsmanship, ARCHITECTMADE ensures each item is built to endure the test of time."
+         },
+ 
+         {
+          "id": "275",
+          "name": "Un'common",
+          "priority": 275,
+          "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65eb036d1986c3f0914aef20_uncommon_EDGE_1%203DOD_34-p-1600.jpg",
+          "website": "https://uncommon.pl/",
+          "instagram": "https://www.instagram.com/uncommon_design",
+          "facebook": "https://www.facebook.com/uncommonlodz",
+          "Pinterest": "https://pin.it/6PIq21vvi",
+          "description": "Un'common is a polish design studio which creates furniture from finest materials such as marble, wood and steel. Yet the heart of the brand is stone. The founders believe that furniture should not only be well-designed – it should be a feast for the senses. Nothing can produce this effect quite as good as marble. It is a beautiful, refined, natural material that has been used for centuries in architecture, art and everyday life. Given with this opportunity brand tries to rediscover it by working with new forms and textures. During 3daysofdesign Un'common is going to present the new series of furniture made of travertine stone which is going to surprise the viewers with its unique texture."
+           },
+           {
+            "id": "276",
+            "name": "The Material Way",
+            "priority": 276,
+            "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65eadf26a2eb34b619864f2c_TheaMorandini1.jpg",
+            "website": "https://www.thematerialway.com/",
+            "instagram": "https://www.instagram.com/the.material.way/",
+            
+            "description": "The Material Way is a new collaborative platform for material-based studies focused on supporting curious creators who strive to craft a more holistic, local, and nature-minded future. Founded by curator and communicator Rita Trindade (Through Objects) and multidisciplinary designer Bonnie Hvillum (Natural Material Studio), it gathers artists and researchers in two international programs: Local Bio-based Materials and Natural Materials in Ceramics. The culmination of these two programs will be showcased at a group exhibition during Denmark's Design Festival, 3daysofdesign."
+                 },
+             {
+              "id": "277",
+              "name": "AnalogLab",
+              "priority": 277,
+              "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65ead560bcd11f8bc0d292ba_LunaLantern_L-p-1600.jpeg",
+              "website": "https://www.analog-lab.com/",
+              "instagram": "https://www.instagram.com/analoglabdesign/",
+           
+              "description": "Featuring 2 Collections: The Luna Collection is our Indoor & outdoor lighting collection presented in new colors and finishes in Copenhagen. It features a minimal and modern design in solid or laminated hardwood, rich colors, and stainless steel, all with touch-sensitive controls. The collection features up to 55 hours of warm and engaging portable light. Amano+ is the essence of minimal & modern design. Created with imagination, plus the infinite creative opportunities of 3D printing. Amano+ empowers buyers to create and configure their own tailored timepiece. For each unique creation, we blend traditional watchmaking, craft & advanced 3D technology. AnalogLab is a multidisciplinary studio in Milan, Italy, founded by Thomas Lehman."
+                 },
+               {
+                "id": "278",
+                "name": "Astrid",
+                "priority": 278,
+                "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65eade2d168cd19c286a612a_Astrid_LB_Milano_2-p-1600.jpeg",
+                "website": "https://astrid.se/",
+                "instagram": "https://www.instagram.com/astridtextiles/",
+                "facebook": "https://m.facebook.com/p/Astridtextiles-100077010069494/",
+                "Pinterest": "https://www.pinterest.se/astridtextiles/",
+                "description": "The Swedish passionate textile company Astrid provides beautiful and high-quality fabrics with Scandinavian aesthetics. Established in 2003 the Stockholm based company creates an evolving product line to meet a wide range of design and business needs. With a conviction that textiles could completely change the atmosphere in an environment, Astrid works with sourcing, designing, and producing their own collections. Astrid offers textiles for curtains and furniture with a wide range of colours, qualities and structures that are timeless with a long-term use in mind. Astrid works together with some of the best producers in Europe, to maintain a close relationship with suppliers and access the broad range of knowledge in European production."
+                  },
+                 {
+                  "id": "279",
+                  "name": "VICCARBE",
+                  "priority": 279,
+                  "image": "https://assets-global.website-files.com/6195025159d3bccd9b338ebb/65e9832747f9980d0295d04f_VICCARBE3.jpg",
+                  "website": "https://www.viccarbe.com/",
+                  "instagram": "https://www.instagram.com/viccarbe/",
+                  
+                  "Pinterest": "https://www.pinterest.es/viccarbe/",
+                  "description": "Viccarbe is an international reference in the manufacture of collaborative furniture for contract, hospitality, educational, healthcare, and residential environments. The company is based in Valencia, Spain, a city that enjoys over 300 days of sunshine per year. This light is part of their Mediterranean identity and is the starting point of their kind designs, made in collaboration with leading international designers such as Patricia Urquiola, John Pawson, Jasper Morrison, Naoto Fukasawa, Jaime Hayon or Piero Lissoni."
+                  }
+ 
  
   ]
 }
